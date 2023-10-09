@@ -4,9 +4,8 @@ body {
 }
 
 .navbar{
-
-    overflow: hidden;
     position: fixed;
+    overflow: hidden;
     bottom: 0;
     width: 100%;
 }
