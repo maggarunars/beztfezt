@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.navbar{
+    position: fixed;
+    overflow: hidden;
+    bottom: 0;
+    width: 100%;
+}
+
+.navbarin {
+    background-color: #264653;
+    height: 64px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#hom {
+    border-style: solid;
+    border-radius: 4px;
+    filter: invert(45%) sepia(27%) saturate(1015%) hue-rotate(340deg) brightness(98%) contrast(98%);
+    padding: 4px;
+}
