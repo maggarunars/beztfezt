@@ -11,6 +11,13 @@
         <h1 class="text-6xl">Events</h1>
     </header>
 
+    <!-- <nav class="flex justify-end items center">
+        <div class="bg-orange relative p-4 rounded-l-xl">
+            <div><img src="/src/images/filterIcon.svg" class="text-black align-middle" alt="filterIcon"></div>
+        </div>
+    </nav> -->
+
+
     <!-- Days options -->
     <section>
         <div class="flex justify-around my-8">
@@ -29,7 +36,25 @@
         </div>
 
     </section>
-<!-- test comment -->
+    <!-- Filter sidebar menu -->
+    <div class="w-full flex justify-end fixed">
+        <div class="fixed flex justify-end flex-col" id="dropdownButton">
+            <div onclick="toggleDropdown()" class=" bg-blue px-5 py-5 rounded-tl-xl font-bold flex">
+                <img src="/src/images/filterIcon.svg"  alt="filterIcon">
+            </div>
+            <div id="dropdown" class="rounded-bl-xl bg-blue p-5 hidden" id="dropdownButton">
+                <div class=""><img src="/src/images/accessIcon.svg"  alt="accessIcon"></div>
+                <p>Access</p>
+                <div class="pb-4"><img src="/src/images/foodIcon.svg"  alt="foodIcon"></div>
+                <div class="pb-4"><img src="/src/images/musicIcon.svg"  alt="musicIcon"></div>
+                <div class="pb-4"><img src="/src/images/artIcon.svg"  alt="artIcon"></div>
+                <div class="pb-4"><img src="/src/images/theatreIcon.svg"  alt="theatreIcon"></div>
+                <div class="pb-4"><img src="/src/images/familyIcon.svg"  alt="familyIcon"></div>
+            </div>
+        </div>
+    </div>
+
+
     <!-- Event cards -->
     <section">
         <div class="mx-2 mb-4 bg-cyan-400 rounded-xl flex justify-between">
@@ -158,5 +183,13 @@
     </footer>
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+    <!-- this needs to be moved to ts file -->
+    <script>
+        function toggleDropdown(){
+            let dropdown = document.querySelector("#dropdownButton #dropdown")
+            dropdown.classList.toggle("hidden")
+        }
+    </script>
 </body>
 </html>
