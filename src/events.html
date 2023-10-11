@@ -208,29 +208,6 @@
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 
     <!-- this needs to be moved to ts file -->
-    <script>
-
-
-        function toggleDropdown(){
-            let dropdown = document.querySelector("#dropdown")
-            dropdown.classList.toggle("hidden")
-        }
-        const icons = document.querySelectorAll("#dropdown div")
-        console.log(icons)
-        function colorChange(iconBtn){
-            console.log(iconBtn)
-                for (let i = 0; i < icons.length; i++){
-                    icons[i].style.backgroundColor = "#264653"
-                }
-                iconBtn.style.backgroundColor = "#F9994E";
-        }
-        // const iconsText = document.querySelectorAll("#color p")
-        // function fontColorChange(text){
-        //     for (let i = 0; i < daysText.length; i++){
-        //             icons[i].style.backgroundColor = "#264653"
-        //         }
-        //         text.style.color = "#264653";
-        // }
-    </script>
+    <script src="main.js"></script>
 </body>
 </html>
