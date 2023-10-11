@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../dist/output.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <title>Events</title>
 </head>
 <body class="font-lexend">
@@ -22,7 +25,7 @@
     <section>
         <div class="mx-4 flex justify-between my-4">
             <div class="border-2 border-blue rounded-xl h-9 py-3 px-3 flex items-center">
-                <p class="font-thin text-sm">5 APRIL</p>
+                <p class="font-thin">5 APRIL</p>
             </div>
             <div class="border-2 border-blue rounded-xl h-9 py-3 px-3 flex items-center">
                 <p class="font-thin">6 APRIL</p>
@@ -38,18 +41,35 @@
     </section>
     <!-- Filter sidebar menu -->
     <div class="w-full flex justify-end fixed">
-        <div class="fixed flex justify-end flex-col" id="dropdownButton">
-            <div onclick="toggleDropdown()" class=" bg-blue px-5 py-5 rounded-tl-xl font-bold flex">
+        <div class="fixed flex justify-end flex-col">
+            <div onclick="toggleDropdown()" class=" bg-blue px-5 py-5 rounded-tl-xl font-bold flex justify-center">
                 <img src="/src/images/filterIcon.svg"  alt="filterIcon">
             </div>
-            <div id="dropdown" class="rounded-bl-xl bg-blue p-5 hidden" id="dropdownButton">
-                <div class=""><img src="/src/images/accessIcon.svg"  alt="accessIcon"></div>
-                <p>Access</p>
-                <div class="pb-4"><img src="/src/images/foodIcon.svg"  alt="foodIcon"></div>
-                <div class="pb-4"><img src="/src/images/musicIcon.svg"  alt="musicIcon"></div>
-                <div class="pb-4"><img src="/src/images/artIcon.svg"  alt="artIcon"></div>
-                <div class="pb-4"><img src="/src/images/theatreIcon.svg"  alt="theatreIcon"></div>
-                <div class="pb-4"><img src="/src/images/familyIcon.svg"  alt="familyIcon"></div>
+            <div id="dropdown" class="rounded-bl-xl bg-blue hidden pb-5 justify-center flex-col">
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/accessIcon.svg" alt="accessIcon" width="34" height="34" class="">
+                    <p class="flex justify-center font-lexend text-white font-light" >access</p>
+                </div>
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/foodIcon.svg" alt="foodIcon" width="34" height="34">
+                    <p class="flex justify-center font-lexend text-white font-light">food</p>
+                </div>
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/musicIcon.svg" alt="musicIcon" width="34" height="34">
+                    <p class="flex justify-center font-lexend text-white font-light">music</p>
+                </div>
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/artIcon.svg" alt="artIcon" width="34" height="34">
+                    <p class="flex justify-center font-lexend text-white font-light">art</p>
+                </div>
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/theatreIcon.svg" alt="theatreIcon" width="34" height="34">
+                    <p class="flex justify-center font-lexend text-white font-light">theatre</p>
+                </div>
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/familyIcon.svg" alt="familyIcon" width="34" height="34">
+                    <p class="flex justify-center font-lexend text-white font-light">family</p>
+                </div>
             </div>
         </div>
     </div>
@@ -168,7 +188,7 @@
             </div>
         </div>
     </section>
-<!-- comment - -->
+
     <!-- sticky navbar menu -->
     <footer class="pt-16">
         <nav class="bg-blue fixed bottom-0 w-full p-4">
@@ -188,11 +208,6 @@
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 
     <!-- this needs to be moved to ts file -->
-    <script>
-        function toggleDropdown(){
-            let dropdown = document.querySelector("#dropdownButton #dropdown")
-            dropdown.classList.toggle("hidden")
-        }
-    </script>
+    <script src="main.js"></script>
 </body>
 </html>

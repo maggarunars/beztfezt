@@ -4,3 +4,22 @@ function toggleDropdown(){
     let dropdown: Element | null = document.querySelector("#dropdownButton #dropdown") as Element
     dropdown.classList.toggle("hidden")
 }
+
+
+const icons = document.querySelectorAll<HTMLDivElement>("#dropdown div")
+// console.log(icons)
+function colorChange(iconBtn: HTMLDivElement){
+    console.log(iconBtn)
+        for (let i = 0; i < icons.length; i++){
+            icons[i].style.backgroundColor = "#264653"
+        }
+        iconBtn.style.backgroundColor = "#F9994E";
+}
+
+        // const iconsText = document.querySelectorAll("#color p")
+        // function fontColorChange(text){
+        //     for (let i = 0; i < daysText.length; i++){
+        //             icons[i].style.backgroundColor = "#264653"
+        //         }
+        //         text.style.color = "#264653";
+        // }
