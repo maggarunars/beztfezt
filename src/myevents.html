@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../dist/output.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body class="font-lexend">
+    <header class="pt-12 bg-blue flex justify-center align-middle mb-4 text-center">
+        <h1 class="pb-2 text-2xl font-bold text-orange">MY EVENTS</h1>
+    </header>
+     <!-- Filter sidebar menu -->
+     <div class="w-full flex justify-end fixed">
+        <div class="fixed flex justify-end flex-col" id="dropdownButton">
+            <div onclick="toggleDropdown()" class=" bg-blue px-5 py-5 rounded-tl-xl font-bold flex">
+                <img src="/src/images/filterIcon.svg"  alt="filterIcon">
+            </div>
+            <div id="dropdown" class="rounded-bl-xl bg-blue p-5 hidden" id="dropdownButton">
+                <div class=""><img src="/src/images/accessIcon.svg"  alt="accessIcon"></div>
+                <p>Access</p>
+                <div class="pb-4"><img src="/src/images/foodIcon.svg"  alt="foodIcon"></div>
+                <div class="pb-4"><img src="/src/images/musicIcon.svg"  alt="musicIcon"></div>
+                <div class="pb-4"><img src="/src/images/artIcon.svg"  alt="artIcon"></div>
+                <div class="pb-4"><img src="/src/images/theatreIcon.svg"  alt="theatreIcon"></div>
+                <div class="pb-4"><img src="/src/images/familyIcon.svg"  alt="familyIcon"></div>
+            </div>
+        </div>
+    </div>
+    <!-- EVENT CARDS BELOW -->
+    <!-- I am leaving the section part bc I'm not sure the page needs it as a
+    container for receiving the TS function -->
+    <section class="text-white">
+        <!-- <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
+            <div class="flex flex-col justify-evenly">
+                <div class="px-4">
+                    <h2 class="font-bold text-2xl">Festival name</h2>
+                    <h3>Location</h3>
+                </div>
+                <div class="flex justify-between px-4 gap-3">
+                    <div class="flex items-center">
+                        <ion-icon class="text-4xl" name="heart-outline"></ion-icon>
+                        <ion-icon class="text-4xl" name="share-outline"></ion-icon>
+                    </div>
+                    <div>
+                        <p class="flex justify-end">8. april</p>
+                        <p>15:00 - 21:00</p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <img class="rounded-xl" src="https://picsum.photos/150" alt="">
+            </div>
+        </div> -->
+    </section>
+    <nav class="navbar">
+        <div class="navbarin">
+            <img id="hom" src="images/homeicon.svg" alt="home"> 
+            <img id="cal" src="images/calendaricon.svg" alt="calendar">
+            <img id="loc" src="images/locationicon.svg" alt="location">
+            <img id="mye" src="images/hearticon.svg" alt="my events">
+        </div>        
+    </nav>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
