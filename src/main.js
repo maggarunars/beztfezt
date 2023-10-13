@@ -31,20 +31,25 @@ document.addEventListener('DOMContentLoaded', function () {
 //         });
 //     }
 // });
+// Wait for the DOM content to be fully loaded before executing the script
 document.addEventListener('DOMContentLoaded', function () {
+    // Find the element with the ID 'icon' and treat it as an HTMLElement
     const icon = document.getElementById('icon');
+    // Check if the element with the ID 'icon' exists
     if (icon) {
+        // Add a click event listener to the 'icon' element
         icon.addEventListener('click', function () {
-            // Check the current color
+            // Check the current color of the 'icon' element
             const currentColor = icon.style.color;
-            // If the current color is not red, set it to red; otherwise, set it to the original color
+            // If the current color is not red, set it to red
             if (currentColor !== 'rgb(249, 153, 78)' && currentColor !== '#F9994E') {
-                // Change the color to red
+                // Change the color to orange
                 icon.style.color = '#F9994E';
             }
             else {
-                // Set it to the original color (you need to replace 'originalColor' with the actual original color)
-                icon.style.color = 'white';
+                // Set the color back to the original color
+                // Note: Replace 'originalColor' with the actual original color value
+                icon.style.color = 'originalColor';
             }
         });
     }

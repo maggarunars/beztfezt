@@ -50,7 +50,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230807",
+          "dagsetning": "5.apríl",
           "timasetning": "11:00:00",
           "timasetning_til": "12:00:00",
           "tengja_vid_grein": "",
@@ -71,7 +71,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Yoga fyrir \u00f6ll - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/yoga-fyrir-oll\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Yoga fyrir \u00f6ll - \" \/>\n<meta property=\"og:description\" content=\"\u00de\u00e6gilegt fl\u00e6\u00f0i-yoga sem hentar \u00f6llum, hvort sem \u00fe\u00fa ert a\u00f0 byrja e\u00f0a ert algj\u00f6rt \u201eyogan\u00f6rd\u201c. Yoga \u00e6fingar eru fr\u00e1b\u00e6r byrjun \u00e1 \u00feessari yndislegu viku, Unnar Geir lei\u00f0ir \u00fe\u00e1tttakendur \u00ed gegnum \u00e6fingar sem auka li\u00f0leika, styrk og jafnv\u00e6gi. T\u00edminn endar g\u00f3\u00f0ri dj\u00fapsl\u00f6kun.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/yoga-fyrir-oll\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-03T10:45:58+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/08\/shutterstock_1650728095-1024x576.png\" \/>\n\t<meta property=\"og:image:width\" content=\"1024\" \/>\n\t<meta property=\"og:image:height\" content=\"576\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/png\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/yoga-fyrir-oll\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/yoga-fyrir-oll\/\",\"name\":\"Yoga fyrir \u00f6ll - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-08-03T09:57:34+00:00\",\"dateModified\":\"2023-08-03T10:45:58+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/yoga-fyrir-oll\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/yoga-fyrir-oll\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/yoga-fyrir-oll\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Yoga fyrir \u00f6ll\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Yoga fyrir \u00f6ll - ",
+          "title": "Yoga fyrir \u00f6ll ",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -284,7 +284,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230807",
+          "dagsetning": "6. apríl",
           "timasetning": "11:00:00",
           "timasetning_til": "23:00:00",
           "tengja_vid_grein": "",
@@ -305,7 +305,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Opi\u00f0 \u00ed PRIDE CENTRE 7. \u00e1g\u00fast - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Opi\u00f0 \u00ed PRIDE CENTRE 7. \u00e1g\u00fast - \" \/>\n<meta property=\"og:description\" content=\"Opi\u00f0 \u00ed allan dag \u00ed Kaupf\u00e9lagi Hinsegin daga og uppl\u00fdsingami\u00f0st\u00f6\u00f0 h\u00e1t\u00ed\u00f0arinnar. Kaffi h\u00fas og bar \u00e1 sta\u00f0nu, fj\u00f6lbreyttir vi\u00f0bur\u00f0ir og g\u00f3\u00f0 stemning.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-16T17:22:44+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/Regnbogafanar_blakandi-800x516-1.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"516\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre\/\",\"name\":\"Opi\u00f0 \u00ed PRIDE CENTRE 7. \u00e1g\u00fast - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-16T15:13:12+00:00\",\"dateModified\":\"2023-07-16T17:22:44+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Opi\u00f0 \u00ed PRIDE CENTRE 7. \u00e1g\u00fast\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Opi\u00f0 \u00ed PRIDE CENTRE 7. \u00e1g\u00fast - ",
+          "title": "Opi\u00f0 \u00ed PRIDE CENTRE",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -501,7 +501,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "stadsetning": "PRIDE CENTRE (A\u00f0alsalur)",
+          "stadsetning": "PRIDE CENTRE",
           "google_maps": {
               "address": "I\u00f0n\u00f3, Vonarstr\u00e6ti, Reykjav\u00edk, \u00cdsland",
               "lat": 64.14583329999999,
@@ -518,7 +518,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230807",
+          "dagsetning": "7.apríl",
           "timasetning": "13:00:00",
           "timasetning_til": "16:00:00",
           "tengja_vid_grein": "",
@@ -540,7 +540,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Fataskiptimarka\u00f0ur - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/fataskiptimarkadur\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Fataskiptimarka\u00f0ur - \" \/>\n<meta property=\"og:description\" content=\"\u00c1ttu fullt af f\u00f6tum sem \u00fe\u00fa notar ekki lengur? Vantar \u00feig f\u00f6t? Komdu me\u00f0 f\u00f6tin sem safna ryki inni \u00ed sk\u00e1p \u00ed Pride Center og gef\u00f0u \u00feeim \u00e1framhaldandi l\u00edf. Komdu og sko\u00f0a\u00f0u \u00farvali\u00f0 af f\u00f6tum \u00ed Pride Center og finndu eitthva\u00f0 sem \u00fe\u00e9r finnst flott. Sj\u00e1umst!\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/fataskiptimarkadur\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-15T18:42:19+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/close-up-of-woman-wearing-rainbow-badge-royalty-free-image-1652812450.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"2119\" \/>\n\t<meta property=\"og:image:height\" content=\"1415\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/fataskiptimarkadur\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/fataskiptimarkadur\/\",\"name\":\"Fataskiptimarka\u00f0ur - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T17:31:37+00:00\",\"dateModified\":\"2023-07-15T18:42:19+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/fataskiptimarkadur\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/fataskiptimarkadur\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/fataskiptimarkadur\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Fataskiptimarka\u00f0ur\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Fataskiptimarka\u00f0ur - ",
+          "title": "Fataskiptimarka\u00f0ur",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -716,7 +716,7 @@ const events = [
       "type": "program",
       "link": "https:\/\/hinsegindagar.is\/program\/ungmenni-hinsegin-handverk-10-12-ara\/",
       "title": {
-          "rendered": "Ungmenni: Hinsegin handverk (10-12 \u00e1ra)"
+          "rendered": "Ungmenni: Hinsegin handverk"
       },
       "content": {
           "rendered": "\n<p>Pride vikan byrjar \u00e1 notalegum n\u00f3tum \u00fear sem 10-12 \u00e1ra hinsegin kr\u00f6kkum er bo\u00f0i\u00f0 a\u00f0 koma \u00ed Pride Center og b\u00faa til armb\u00f6nd og listaverk \u00far perlum og \u00f6\u00f0ru efni.<br>Skemmtilegur vi\u00f0bur\u00f0ur til a\u00f0 koma saman, spjalla, hl\u00e6ja og f\u00f6ndra. Ungmennar\u00e1\u00f0 Hinsegin daga \u00e1samt \u00f6\u00f0rum sj\u00e1lfbo\u00f0ali\u00f0um ver\u00f0a \u00e1 sv\u00e6\u00f0inu og a\u00f0sto\u00f0a \u00feau sem \u00feurfa.<\/p>\n",
@@ -736,7 +736,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "stadsetning": "PRIDE CENTRE (Sunnusalur)",
+          "stadsetning": "PRIDE CENTRE ",
           "google_maps": {
               "address": "I\u00f0n\u00f3, Vonarstr\u00e6ti, Reykjav\u00edk, \u00cdsland",
               "lat": 64.14583329999999,
@@ -753,7 +753,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230807",
+          "dagsetning": "8. apríl",
           "timasetning": "13:00:00",
           "timasetning_til": "15:00:00",
           "tengja_vid_grein": "",
@@ -772,7 +772,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Ungmenni: Hinsegin handverk (10-12 \u00e1ra) - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/ungmenni-hinsegin-handverk-10-12-ara\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Ungmenni: Hinsegin handverk (10-12 \u00e1ra) - \" \/>\n<meta property=\"og:description\" content=\"Pride vikan byrjar \u00e1 notalegum n\u00f3tum \u00fear sem 10-12 \u00e1ra hinsegin kr\u00f6kkum er bo\u00f0i\u00f0 a\u00f0 koma \u00ed Pride Center og b\u00faa til armb\u00f6nd og listaverk \u00far perlum og \u00f6\u00f0ru efni.Skemmtilegur vi\u00f0bur\u00f0ur til a\u00f0 koma saman, spjalla, hl\u00e6ja og f\u00f6ndra. Ungmennar\u00e1\u00f0 Hinsegin daga \u00e1samt \u00f6\u00f0rum sj\u00e1lfbo\u00f0ali\u00f0um ver\u00f0a \u00e1 sv\u00e6\u00f0inu og a\u00f0sto\u00f0a \u00feau sem \u00feurfa.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/ungmenni-hinsegin-handverk-10-12-ara\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/pearls-1024x678.png\" \/>\n\t<meta property=\"og:image:width\" content=\"1024\" \/>\n\t<meta property=\"og:image:height\" content=\"678\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/png\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/ungmenni-hinsegin-handverk-10-12-ara\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/ungmenni-hinsegin-handverk-10-12-ara\/\",\"name\":\"Ungmenni: Hinsegin handverk (10-12 \u00e1ra) - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T17:31:38+00:00\",\"dateModified\":\"2023-07-15T17:31:38+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/ungmenni-hinsegin-handverk-10-12-ara\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/ungmenni-hinsegin-handverk-10-12-ara\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/ungmenni-hinsegin-handverk-10-12-ara\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Ungmenni: Hinsegin handverk (10-12 \u00e1ra)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Ungmenni: Hinsegin handverk (10-12 \u00e1ra) - ",
+          "title": "Ungmenni: Hinsegin handverk",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -967,7 +967,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230807",
+          "dagsetning": "6. apríl",
           "timasetning": "17:00:00",
           "timasetning_til": "19:00:00",
           "stadsetning": "PRIDE CENTRE \/\/ I\u00d0N\u00d3",
@@ -1205,7 +1205,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230807",
+          "dagsetning": "7. apríl",
           "timasetning": "19:00:00",
           "timasetning_til": "20:00:00",
           "stadsetning": "I\u00f0n\u00f3 - H\u00e1t\u00ed\u00f0arsalur",
@@ -1226,7 +1226,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>You&#039;re lucky he was nice - Uppistand - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/youre-lucky-he-was-nice-uppistand\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"You&#039;re lucky he was nice - Uppistand - \" \/>\n<meta property=\"og:description\" content=\"Sindri &#8220;Sparkle&#8221; Freyr flytur ver\u00f0launa\u00f0a uppistandi\u00f0 sitt \u00e1 Hinsegin d\u00f6gum \u00ed Reykjav\u00edk \u00ed s\u00ed\u00f0asta skipti \u00e1\u00f0ur en \u00fea\u00f0 fer \u00e1 t\u00far um Evr\u00f3pu \u00e1 n\u00e6sta \u00e1ri. You&#8217;re Lucky He Was Nice er annarsvegar pers\u00f3nuleg fr\u00e1s\u00f6gn og hinsvegar slideshow uppistand. \u00dea\u00f0 sko\u00f0ar hva\u00f0 \u00fea\u00f0 er a\u00f0 vera hinsegin og \u00fea\u00f0 \u00fea\u00f0 \u00fe\u00fd\u00f0ir a\u00f0 vera \u00fer\u00e1\u00f0ur. \u00cd [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/youre-lucky-he-was-nice-uppistand\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-01T15:17:26+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/IMG_7547-scaled.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"2560\" \/>\n\t<meta property=\"og:image:height\" content=\"1707\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"1 minute\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/youre-lucky-he-was-nice-uppistand\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/youre-lucky-he-was-nice-uppistand\/\",\"name\":\"You're lucky he was nice - Uppistand - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-25T00:23:17+00:00\",\"dateModified\":\"2023-08-01T15:17:26+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/youre-lucky-he-was-nice-uppistand\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/youre-lucky-he-was-nice-uppistand\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/youre-lucky-he-was-nice-uppistand\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"You&#8217;re lucky he was nice &#8211; Uppistand\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "You're lucky he was nice - Uppistand - ",
+          "title": "You're lucky he was nice",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -1405,7 +1405,7 @@ const events = [
       "type": "program",
       "link": "https:\/\/hinsegindagar.is\/program\/nasdaq-a-islandi-hatidarbjalla-a-skolavordustig\/",
       "title": {
-          "rendered": "Nasdaq \u00e1 \u00cdslandi: H\u00e1t\u00ed\u00f0arbjalla \u00e1 Sk\u00f3lav\u00f6r\u00f0ust\u00edg"
+          "rendered": "H\u00e1t\u00ed\u00f0arbjalla \u00e1 Sk\u00f3lav\u00f6r\u00f0ust\u00edg"
       },
       "content": {
           "rendered": "\n<p>Nasdaq \u00e1 \u00cdslandi og  bj\u00f3\u00f0a \u00fe\u00e9r og \u00fe\u00ednum a\u00f0 vera vi\u00f0 h\u00e1t\u00ed\u00f0arbj\u00f6llu vi\u00f0 regnbogann \u00e1 Sk\u00f3lav\u00f6r\u00f0ust\u00edg \u00feri\u00f0judaginn 8. \u00e1g\u00fast, kl. 9:30.<\/p>\n\n\n\n<p> \u00ed Reykjav\u00edk ver\u00f0a settir \u00e1 h\u00e1degi 8. \u00e1g\u00fast, en vi\u00f0 t\u00f6kum forskot \u00e1 s\u00e6luna me\u00f0 \u00fev\u00ed a\u00f0 hringja Kauphallarbj\u00f6llunni \u00ed nafni fj\u00f6lbreytileikans \u00fe\u00e1 um morguninn.<\/p>\n\n\n\n<p>Gestir okkar \u00ed \u00e1r ver\u00f0a Ragnhildur Sverrisd\u00f3ttir, uppl\u00fdsingafulltr\u00fai Landsvirkjunar og Andri \u00de\u00f3r Gu\u00f0mundsson, forstj\u00f3ri \u00d6lger\u00f0arinnar, en \u00d6lger\u00f0in vinnur n\u00fa a\u00f0 \u00fev\u00ed a\u00f0 ver\u00f0a fyrst \u00edslenskra fyrirt\u00e6kja til a\u00f0 hlj\u00f3ta vottun Samtakanna \u201878 sem hinseginv\u00e6nn vinnusta\u00f0ur.<\/p>\n\n\n\n<p>Vi\u00f0 hvetjum ykkur \u00f6ll til a\u00f0 m\u00e6ta og fagna fj\u00f6lbreytileika samf\u00e9lagsins. <\/p>\n",
@@ -1441,7 +1441,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230808",
+          "dagsetning": "8. apríl",
           "timasetning": "09:30:00",
           "timasetning_til": "",
           "tengja_vid_grein": "",
@@ -1462,7 +1462,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Nasdaq \u00e1 \u00cdslandi: H\u00e1t\u00ed\u00f0arbjalla \u00e1 Sk\u00f3lav\u00f6r\u00f0ust\u00edg - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/nasdaq-a-islandi-hatidarbjalla-a-skolavordustig\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Nasdaq \u00e1 \u00cdslandi: H\u00e1t\u00ed\u00f0arbjalla \u00e1 Sk\u00f3lav\u00f6r\u00f0ust\u00edg - \" \/>\n<meta property=\"og:description\" content=\"Nasdaq \u00e1 \u00cdslandi og  bj\u00f3\u00f0a \u00fe\u00e9r og \u00fe\u00ednum a\u00f0 vera vi\u00f0 h\u00e1t\u00ed\u00f0arbj\u00f6llu vi\u00f0 regnbogann \u00e1 Sk\u00f3lav\u00f6r\u00f0ust\u00edg \u00feri\u00f0judaginn 8. \u00e1g\u00fast, kl. 9:30.  \u00ed Reykjav\u00edk ver\u00f0a settir \u00e1 h\u00e1degi 8. \u00e1g\u00fast, en vi\u00f0 t\u00f6kum forskot \u00e1 s\u00e6luna me\u00f0 \u00fev\u00ed a\u00f0 hringja Kauphallarbj\u00f6llunni \u00ed nafni fj\u00f6lbreytileikans \u00fe\u00e1 um morguninn. Gestir okkar \u00ed \u00e1r ver\u00f0a [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/nasdaq-a-islandi-hatidarbjalla-a-skolavordustig\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-26T12:50:31+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/shutterstock_1614608830-scaled-e1690375813733.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1510\" \/>\n\t<meta property=\"og:image:height\" content=\"844\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"1 minute\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/nasdaq-a-islandi-hatidarbjalla-a-skolavordustig\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/nasdaq-a-islandi-hatidarbjalla-a-skolavordustig\/\",\"name\":\"Nasdaq \u00e1 \u00cdslandi: H\u00e1t\u00ed\u00f0arbjalla \u00e1 Sk\u00f3lav\u00f6r\u00f0ust\u00edg - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-26T12:50:30+00:00\",\"dateModified\":\"2023-07-26T12:50:31+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/nasdaq-a-islandi-hatidarbjalla-a-skolavordustig\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/nasdaq-a-islandi-hatidarbjalla-a-skolavordustig\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/nasdaq-a-islandi-hatidarbjalla-a-skolavordustig\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Nasdaq \u00e1 \u00cdslandi: H\u00e1t\u00ed\u00f0arbjalla \u00e1 Sk\u00f3lav\u00f6r\u00f0ust\u00edg\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Nasdaq \u00e1 \u00cdslandi: H\u00e1t\u00ed\u00f0arbjalla \u00e1 Sk\u00f3lav\u00f6r\u00f0ust\u00edg - ",
+          "title": "H\u00e1t\u00ed\u00f0arbjalla \u00e1 Sk\u00f3lav\u00f6r\u00f0ust\u00edg - ",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -1678,7 +1678,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230808",
+          "dagsetning": "8. apríl",
           "timasetning": "11:00:00",
           "timasetning_til": "23:00:00",
           "tengja_vid_grein": "",
@@ -1911,7 +1911,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230808",
+          "dagsetning": "6. apríl",
           "timasetning": "12:00:00",
           "timasetning_til": "",
           "tengja_vid_grein": "",
@@ -2131,7 +2131,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "stadsetning": "PRIDE CENTRE (A\u00f0alsalur)",
+          "stadsetning": "PRIDE CENTRE",
           "google_maps": {
               "address": "I\u00f0n\u00f3, Vonarstr\u00e6ti, Reykjav\u00edk, \u00cdsland",
               "lat": 64.14583329999999,
@@ -2148,7 +2148,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230808",
+          "dagsetning": "7. apríl",
           "timasetning": "14:00:00",
           "timasetning_til": "15:00:00",
           "tengja_vid_grein": "",
@@ -2380,7 +2380,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230808",
+          "dagsetning": "8. apríl",
           "timasetning": "20:00:00",
           "timasetning_til": "",
           "tengja_vid_grein": "",
@@ -2605,7 +2605,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230808",
+          "dagsetning": "6. apríl",
           "timasetning": "21:00:00",
           "timasetning_til": "01:00:00",
           "stadsetning": "Kiki Queer Bar",
@@ -2852,7 +2852,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230809",
+          "dagsetning": "7. apríl",
           "timasetning": "11:00:00",
           "timasetning_til": "23:00:00",
           "tengja_vid_grein": "",
@@ -3069,7 +3069,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "stadsetning": "PRIDE CENTRE (Sunnusalur)",
+          "stadsetning": "PRIDE CENTRE ",
           "google_maps": {
               "address": "I\u00f0n\u00f3, Vonarstr\u00e6ti, Reykjav\u00edk, \u00cdsland",
               "lat": 64.14583329999999,
@@ -3086,7 +3086,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230809",
+          "dagsetning": "8. apríl",
           "timasetning": "13:00:00",
           "timasetning_til": "15:00:00",
           "tengja_vid_grein": "",
@@ -3306,7 +3306,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "stadsetning": "PRIDE CENTRE (A\u00f0alsalur)",
+          "stadsetning": "PRIDE CENTRE",
           "google_maps": {
               "address": "I\u00f0n\u00f3, Vonarstr\u00e6ti, Reykjav\u00edk, \u00cdsland",
               "lat": 64.14583329999999,
@@ -3323,7 +3323,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230809",
+          "dagsetning": "6. apríl",
           "timasetning": "15:00:00",
           "timasetning_til": "17:00:00",
           "tengja_vid_grein": "",
@@ -3544,7 +3544,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230809",
+          "dagsetning": "7. apríl",
           "timasetning": "16:30:00",
           "timasetning_til": "19:00:00",
           "stadsetning": "Dansverkst\u00e6\u00f0i\u00f0",
@@ -3780,7 +3780,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230809",
+          "dagsetning": "7. apríl",
           "timasetning": "16:30:00",
           "timasetning_til": "19:00:00",
           "stadsetning": "Klambrat\u00fan",
@@ -4031,7 +4031,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230809",
+          "dagsetning": "7. apríl",
           "timasetning": "16:30:00",
           "timasetning_til": "17:30:00",
           "tengja_vid_grein": "",
@@ -4248,7 +4248,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230809",
+          "dagsetning": "7. apríl",
           "timasetning": "18:00:00",
           "timasetning_til": "",
           "stadsetning": "B\u00f3kasafn K\u00f3pavogs, Hamraborg 6a",
@@ -4499,7 +4499,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230809",
+          "dagsetning": "7. apríl",
           "timasetning": "18:00:00",
           "timasetning_til": "20:30:00",
           "tengja_vid_grein": [
@@ -4759,7 +4759,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230809",
+          "dagsetning": "7. apríl",
           "timasetning": "18:30:00",
           "timasetning_til": "",
           "tengja_vid_grein": "",
@@ -4993,7 +4993,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230809",
+          "dagsetning": "7. apríl",
           "timasetning": "20:00:00",
           "timasetning_til": "22:00:00",
           "tengja_vid_grein": "",
@@ -5230,7 +5230,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230809",
+          "dagsetning": "7. apríl",
           "timasetning": "20:00:00",
           "timasetning_til": "",
           "tengja_vid_grein": "",
@@ -5449,7 +5449,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230809",
+          "dagsetning": "7. apríl",
           "timasetning": "21:00:00",
           "timasetning_til": "01:00:00",
           "stadsetning": "Kiki Queer Bar",
@@ -5696,7 +5696,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "09:00:00",
           "timasetning_til": "01:00:00",
           "tengja_vid_grein": "",
@@ -5930,7 +5930,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "09:00:00",
           "timasetning_til": "16:00:00",
           "tengja_vid_grein": "",
@@ -6168,7 +6168,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "16:30:00",
           "timasetning_til": "19:00:00",
           "tengja_vid_grein": "",
@@ -6405,7 +6405,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "17:00:00",
           "timasetning_til": "19:00:00",
           "tengja_vid_grein": "",
@@ -6625,7 +6625,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "stadsetning": "PRIDE CENTRE (Sunnusalur)",
+          "stadsetning": "PRIDE CENTRE ",
           "google_maps": {
               "address": "I\u00f0n\u00f3, Vonarstr\u00e6ti, Reykjav\u00edk, \u00cdsland",
               "lat": 64.14583329999999,
@@ -6642,7 +6642,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "17:00:00",
           "timasetning_til": "18:00:00",
           "tengja_vid_grein": "",
@@ -6857,7 +6857,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "17:00:00",
           "timasetning_til": "19:00:00",
           "stadsetning": "Norr\u00e6na h\u00fasi\u00f0",
@@ -7098,7 +7098,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "18:00:00",
           "timasetning_til": "19:00:00",
           "stadsetning": "Petersen Sv\u00edtan",
@@ -7330,7 +7330,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "20:00:00",
           "timasetning_til": "23:00:00",
           "stadsetning": "SK\u00dd Lounge & Bar",
@@ -7584,7 +7584,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "20:00:00",
           "timasetning_til": "01:00:00",
           "tengja_vid_grein": "",
@@ -7805,7 +7805,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "20:30:00",
           "timasetning_til": "22:00:00",
           "stadsetning": "Kiki Queer Bar",
@@ -8050,7 +8050,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "21:00:00",
           "timasetning_til": "",
           "tengja_vid_grein": "",
@@ -8268,7 +8268,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230810",
+          "dagsetning": "8. apríl",
           "timasetning": "22:00:00",
           "timasetning_til": "01:00:00",
           "stadsetning": "Kiki Queer Bar",
@@ -8515,7 +8515,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "11:00:00",
           "timasetning_til": "01:00:00",
           "tengja_vid_grein": "",
@@ -8749,7 +8749,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "12:00:00",
           "timasetning_til": "16:00:00",
           "tengja_vid_grein": "",
@@ -8967,7 +8967,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "stadsetning": "PRIDE CENTRE (Sunnusalur)",
+          "stadsetning": "PRIDE CENTRE ",
           "google_maps": {
               "address": "I\u00f0n\u00f3, Vonarstr\u00e6ti, Reykjav\u00edk, \u00cdsland",
               "lat": 64.14583329999999,
@@ -8984,7 +8984,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "13:00:00",
           "timasetning_til": "14:00:00",
           "tengja_vid_grein": "",
@@ -9199,7 +9199,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "15:00:00",
           "timasetning_til": "16:30:00",
           "stadsetning": "PRIDE CENTRE \/\/ I\u00d0N\u00d3",
@@ -9238,7 +9238,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Eitt fyrir \u00f6ll og \u00f6ll fyrir eitt \u2013 Trans samsta\u00f0a og samf\u00e9lag - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/eitt-fyrir-oll-og-oll-fyrir-eitt-trans-samstada-og-samfelag\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Eitt fyrir \u00f6ll og \u00f6ll fyrir eitt \u2013 Trans samsta\u00f0a og samf\u00e9lag - \" \/>\n<meta property=\"og:description\" content=\"Trans \u00cdsland stendur fyrir pallbor\u00f0i \u00fear sem r\u00e6tt ver\u00f0ur um mikilv\u00e6gi samst\u00f6\u00f0u og samf\u00e9lags \u00ed bar\u00e1ttu gegn bakslagi. Andie Sophia Fontaine st\u00fdrir umr\u00e6\u00f0um.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/eitt-fyrir-oll-og-oll-fyrir-eitt-trans-samstada-og-samfelag\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-01T19:12:12+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/08\/shutterstock_1963091236-scaled.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"2560\" \/>\n\t<meta property=\"og:image:height\" content=\"1549\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/eitt-fyrir-oll-og-oll-fyrir-eitt-trans-samstada-og-samfelag\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/eitt-fyrir-oll-og-oll-fyrir-eitt-trans-samstada-og-samfelag\/\",\"name\":\"Eitt fyrir \u00f6ll og \u00f6ll fyrir eitt \u2013 Trans samsta\u00f0a og samf\u00e9lag - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-08-01T17:46:09+00:00\",\"dateModified\":\"2023-08-01T19:12:12+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/eitt-fyrir-oll-og-oll-fyrir-eitt-trans-samstada-og-samfelag\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/eitt-fyrir-oll-og-oll-fyrir-eitt-trans-samstada-og-samfelag\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/eitt-fyrir-oll-og-oll-fyrir-eitt-trans-samstada-og-samfelag\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Eitt fyrir \u00f6ll og \u00f6ll fyrir eitt \u2013 Trans samsta\u00f0a og samf\u00e9lag\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Eitt fyrir \u00f6ll og \u00f6ll fyrir eitt \u2013 Trans samsta\u00f0a og samf\u00e9lag - ",
+          "title": "Trans samsta\u00f0a og samf\u00e9lag",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -9249,7 +9249,7 @@ const events = [
           "canonical": "https:\/\/hinsegindagar.is\/program\/eitt-fyrir-oll-og-oll-fyrir-eitt-trans-samstada-og-samfelag\/",
           "og_locale": "is_IS",
           "og_type": "article",
-          "og_title": "Eitt fyrir \u00f6ll og \u00f6ll fyrir eitt \u2013 Trans samsta\u00f0a og samf\u00e9lag - ",
+          "og_title": "Trans samsta\u00f0a og samf\u00e9lag - ",
           "og_description": "Trans \u00cdsland stendur fyrir pallbor\u00f0i \u00fear sem r\u00e6tt ver\u00f0ur um mikilv\u00e6gi samst\u00f6\u00f0u og samf\u00e9lags \u00ed bar\u00e1ttu gegn bakslagi. Andie Sophia Fontaine st\u00fdrir umr\u00e6\u00f0um.",
           "og_url": "https:\/\/hinsegindagar.is\/program\/eitt-fyrir-oll-og-oll-fyrir-eitt-trans-samstada-og-samfelag\/",
           "og_site_name": "",
@@ -9434,7 +9434,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "stadsetning": "PRIDE CENTRE (A\u00f0alsalur)",
+          "stadsetning": "PRIDE CENTRE",
           "google_maps": {
               "address": "I\u00f0n\u00f3, Vonarstr\u00e6ti, Reykjav\u00edk, \u00cdsland",
               "lat": 64.14583329999999,
@@ -9451,7 +9451,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "17:00:00",
           "timasetning_til": "18:30:00",
           "tengja_vid_grein": "",
@@ -9473,7 +9473,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Ungar hinsegin raddir - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/ungar-hinsegin-raddir\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Ungar hinsegin raddir - \" \/>\n<meta property=\"og:description\" content=\"T\u00f3nlistarvi\u00f0bur\u00f0ur \u00fear sem raddir hinsegin ungmenna f\u00e1 a\u00f0 heyrast. Ungmenni fr\u00e1 aldrinum 13-18 \u00e1ra f\u00e1 a\u00f0 s\u00fdna hva\u00f0 \u00ed \u00feeim b\u00fdr. Yfir \u00e1rin hafa eldri ungmennin fengi\u00f0 a\u00f0 s\u00fdna sitt en n\u00fa er komi\u00f0 a\u00f0 \u00feeim yngri.Fj\u00f6lbreytt atri\u00f0i, fr\u00e1b\u00e6r skemmtun og ekki n\u00f3g me\u00f0 \u00fea\u00f0 a\u00f0 \u00fe\u00e1 er fr\u00edtt inn! Viltu koma fram? Vi\u00f0 leitum [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/ungar-hinsegin-raddir\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-03T13:16:53+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/microphone-scaled.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"2560\" \/>\n\t<meta property=\"og:image:height\" content=\"1920\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/ungar-hinsegin-raddir\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/ungar-hinsegin-raddir\/\",\"name\":\"Ungar hinsegin raddir - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T17:55:16+00:00\",\"dateModified\":\"2023-08-03T13:16:53+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/ungar-hinsegin-raddir\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/ungar-hinsegin-raddir\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/ungar-hinsegin-raddir\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Ungar hinsegin raddir\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Ungar hinsegin raddir - ",
+          "title": "Ungar hinsegin raddir",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -9686,7 +9686,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "18:00:00",
           "timasetning_til": "19:00:00",
           "tengja_vid_grein": "",
@@ -9709,7 +9709,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>DRAG DJ\u00d3K - Meet &amp; Greet - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/dragdjok-meetgreet\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"DRAG DJ\u00d3K - Meet &amp; Greet - \" \/>\n<meta property=\"og:description\" content=\"Hittu dragstj\u00f6rnurnar sem koma fram \u00e1 DRAG DJ\u00d3K 2023! Meet &amp; greet ver\u00f0: 4.400 kr.*Athugi\u00f0 a\u00f0 mi\u00f0i \u00e1 Meet &amp; greet gildir ekki sem mi\u00f0i \u00e1 s\u00fdningu (kaupa \u00fearf mi\u00f0a \u00e1 s\u00fdningu s\u00e9rstaklega) Dagskr\u00e1 kv\u00f6ldsins: 18:00 \/\/ Meet &amp; greet18:30 \/\/ H\u00fasi\u00f0 opnar fyrir almenna gesti fyrri s\u00fdningar19:00 \/\/ Fyrri s\u00fdning22:00 \/\/ Seinni s\u00fdning\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/dragdjok-meetgreet\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-01T14:39:56+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/08\/tix_dragdjok_800x600.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"801\" \/>\n\t<meta property=\"og:image:height\" content=\"600\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/dragdjok-meetgreet\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/dragdjok-meetgreet\/\",\"name\":\"DRAG DJ\u00d3K - Meet & Greet - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T18:14:37+00:00\",\"dateModified\":\"2023-08-01T14:39:56+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/dragdjok-meetgreet\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/dragdjok-meetgreet\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/dragdjok-meetgreet\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"DRAG DJ\u00d3K &#8211; Meet &#038; Greet\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "DRAG DJ\u00d3K - Meet & Greet - ",
+          "title": "DRAG DJ\u00d3K - Meet & Greet ",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -9720,7 +9720,7 @@ const events = [
           "canonical": "https:\/\/hinsegindagar.is\/program\/dragdjok-meetgreet\/",
           "og_locale": "is_IS",
           "og_type": "article",
-          "og_title": "DRAG DJ\u00d3K - Meet & Greet - ",
+          "og_title": "DRAG DJ\u00d3K - Meet & Greet",
           "og_description": "Hittu dragstj\u00f6rnurnar sem koma fram \u00e1 DRAG DJ\u00d3K 2023! Meet &amp; greet ver\u00f0: 4.400 kr.*Athugi\u00f0 a\u00f0 mi\u00f0i \u00e1 Meet &amp; greet gildir ekki sem mi\u00f0i \u00e1 s\u00fdningu (kaupa \u00fearf mi\u00f0a \u00e1 s\u00fdningu s\u00e9rstaklega) Dagskr\u00e1 kv\u00f6ldsins: 18:00 \/\/ Meet &amp; greet18:30 \/\/ H\u00fasi\u00f0 opnar fyrir almenna gesti fyrri s\u00fdningar19:00 \/\/ Fyrri s\u00fdning22:00 \/\/ Seinni s\u00fdning",
           "og_url": "https:\/\/hinsegindagar.is\/program\/dragdjok-meetgreet\/",
           "og_site_name": "",
@@ -9922,7 +9922,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "19:00:00",
           "timasetning_til": "",
           "tengja_vid_grein": "",
@@ -9944,7 +9944,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>DRAG DJ\u00d3K (fyrri s\u00fdning) - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/dragdjok-fyrri-syning\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"DRAG DJ\u00d3K (fyrri s\u00fdning) - \" \/>\n<meta property=\"og:description\" content=\" kynna me\u00f0 stolti: DRAG DJ\u00d3K 2023! Fram koma st\u00f3rstj\u00f6rnurnar Black Peppa og Danny Beard \u00far RuPaul&#8217;s Drag Race UK. Auk \u00feeirra koma fram Agatha P, Gloria Hole, G\u00f3g\u00f3 Starr, Jenny Purr, Milo de Mix og Tom Harlow.&nbsp; Dansh\u00f6fundur: Rebecca Hidalgo Vegna mikillar eftirspurnar ver\u00f0a tv\u00e6r s\u00fdningar \u00ed \u00e1r! 20 \u00e1ra aldurstakmark. kl. 18:00 [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/dragdjok-fyrri-syning\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-01T14:42:22+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/fb_event_1200x628.png\" \/>\n\t<meta property=\"og:image:width\" content=\"1200\" \/>\n\t<meta property=\"og:image:height\" content=\"628\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/png\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"1 minute\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/dragdjok-fyrri-syning\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/dragdjok-fyrri-syning\/\",\"name\":\"DRAG DJ\u00d3K (fyrri s\u00fdning) - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T18:06:54+00:00\",\"dateModified\":\"2023-08-01T14:42:22+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/dragdjok-fyrri-syning\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/dragdjok-fyrri-syning\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/dragdjok-fyrri-syning\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"DRAG DJ\u00d3K (fyrri s\u00fdning)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "DRAG DJ\u00d3K (fyrri s\u00fdning) - ",
+          "title": "DRAG DJ",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -9955,7 +9955,7 @@ const events = [
           "canonical": "https:\/\/hinsegindagar.is\/program\/dragdjok-fyrri-syning\/",
           "og_locale": "is_IS",
           "og_type": "article",
-          "og_title": "DRAG DJ\u00d3K (fyrri s\u00fdning) - ",
+          "og_title": "DRAG DJ",
           "og_description": " kynna me\u00f0 stolti: DRAG DJ\u00d3K 2023! Fram koma st\u00f3rstj\u00f6rnurnar Black Peppa og Danny Beard \u00far RuPaul&#8217;s Drag Race UK. Auk \u00feeirra koma fram Agatha P, Gloria Hole, G\u00f3g\u00f3 Starr, Jenny Purr, Milo de Mix og Tom Harlow.&nbsp; Dansh\u00f6fundur: Rebecca Hidalgo Vegna mikillar eftirspurnar ver\u00f0a tv\u00e6r s\u00fdningar \u00ed \u00e1r! 20 \u00e1ra aldurstakmark. kl. 18:00 [&hellip;]",
           "og_url": "https:\/\/hinsegindagar.is\/program\/dragdjok-fyrri-syning\/",
           "og_site_name": "",
@@ -10160,7 +10160,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "19:00:00",
           "timasetning_til": "20:15:00",
           "tengja_vid_grein": "",
@@ -10181,7 +10181,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Til tunglsins - Hinsegin jazz, drama og d\u00e6gurl\u00f6g - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/til-tunglsins-hinsegin-jazz-drama-og-daegurlog\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Til tunglsins - Hinsegin jazz, drama og d\u00e6gurl\u00f6g - \" \/>\n<meta property=\"og:description\" content=\"S\u00f6ngvararnir Helga Margr\u00e9t, Vigd\u00eds \u00de\u00f3ra og Villi \u00d3sk flytja, \u00e1samt hlj\u00f3msveit, jazz eftir hinsegin t\u00f3nsk\u00e1ld og flytjendur, \u00e1samt nokkrum af \u00feeirra upp\u00e1halds hinsegin perlum. \u00der\u00edeyki\u00f0 mun f\u00e6ra gestum ylh\u00fdra fr\u00f3\u00f0leiksmola um l\u00f6gin og hinsegin s\u00f6guna \u00e1 bakvi\u00f0 \u00feau. Vissir \u00fe\u00fa til a\u00f0 Fly me to the Moon v\u00e6ri hinsegin \u00e1starlag? Helga Margr\u00e9t Clarke, s\u00f6ngurVigd\u00eds \u00de\u00f3ra [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/til-tunglsins-hinsegin-jazz-drama-og-daegurlog\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-03T13:18:49+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/Tiltunglsins-1024x732.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1024\" \/>\n\t<meta property=\"og:image:height\" content=\"732\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"1 minute\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/til-tunglsins-hinsegin-jazz-drama-og-daegurlog\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/til-tunglsins-hinsegin-jazz-drama-og-daegurlog\/\",\"name\":\"Til tunglsins - Hinsegin jazz, drama og d\u00e6gurl\u00f6g - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-24T13:42:40+00:00\",\"dateModified\":\"2023-08-03T13:18:49+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/til-tunglsins-hinsegin-jazz-drama-og-daegurlog\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/til-tunglsins-hinsegin-jazz-drama-og-daegurlog\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/til-tunglsins-hinsegin-jazz-drama-og-daegurlog\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Til tunglsins &#8211; Hinsegin jazz, drama og d\u00e6gurl\u00f6g\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Til tunglsins - Hinsegin jazz, drama og d\u00e6gurl\u00f6g - ",
+          "title": "Til tunglsins",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -10393,7 +10393,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "19:00:00",
           "timasetning_til": "20:00:00",
           "tengja_vid_grein": "",
@@ -10415,7 +10415,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Stolt siglir fleyi\u00f0 mitt - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/stolt-siglir-fleyid-mitt-2\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Stolt siglir fleyi\u00f0 mitt - \" \/>\n<meta property=\"og:description\" content=\"Vi\u00f0 siglum stolt \u00far g\u00f6mlu h\u00f6fninni \u00ed Reykjav\u00edk f\u00f6studaginn 11. \u00e1g\u00fast. B\u00e1turinn vaggar \u00ed takt vi\u00f0 alla h\u00fdrustu poppsmellina og kannski nokkra sj\u00f3mannavalsa. Klukkustundarl\u00f6ng sigling \u00ed kringum eyjarnar \u00e1 Faxafl\u00f3a \u00fear sem \u00fe\u00fa s\u00e9r\u00f0 borgina fr\u00e1 n\u00fdju sj\u00f3narhorni. Fordrykkur og huggulegheit fr\u00e1 kl. 18:00. Vinsamlega m\u00e6ti\u00f0 t\u00edmanlega \u00fev\u00ed a\u00f0 skipi\u00f0 leggur \u00far h\u00f6fn \u00e1 slaginu [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/stolt-siglir-fleyid-mitt-2\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-20T14:32:05+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/Pride-Sigling-54-e1689680442935.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"2193\" \/>\n\t<meta property=\"og:image:height\" content=\"1506\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/stolt-siglir-fleyid-mitt-2\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/stolt-siglir-fleyid-mitt-2\/\",\"name\":\"Stolt siglir fleyi\u00f0 mitt - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T18:18:06+00:00\",\"dateModified\":\"2023-07-20T14:32:05+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/stolt-siglir-fleyid-mitt-2\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/stolt-siglir-fleyid-mitt-2\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/stolt-siglir-fleyid-mitt-2\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Stolt siglir fleyi\u00f0 mitt\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Stolt siglir fleyi\u00f0 mitt - ",
+          "title": "Stolt siglir fleyi\u00f0 mitt",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -10611,7 +10611,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "stadsetning": "PRIDE CENTRE (Sunnusalur)",
+          "stadsetning": "PRIDE CENTRE ",
           "google_maps": {
               "address": "I\u00f0n\u00f3, Vonarstr\u00e6ti, Reykjav\u00edk, \u00cdsland",
               "lat": 64.14583329999999,
@@ -10628,7 +10628,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "20:00:00",
           "timasetning_til": "",
           "tengja_vid_grein": "",
@@ -10648,7 +10648,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Bor\u00f0spilakv\u00f6ld - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/spilakvold\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Bor\u00f0spilakv\u00f6ld - \" \/>\n<meta property=\"og:description\" content=\"H\u00fdrasta spilakv\u00f6ld \u00e1rsins ver\u00f0ur haldi\u00f0 \u00ed PRIDE CENTRE. \u00dea\u00f0 ver\u00f0a fullt af bor\u00f0spilum \u00e1 sta\u00f0num af \u00fdmsum ger\u00f0um. \u00d6ll velkomin, h\u00f3par og einstaklingar, reyndir spilarar og n\u00fdgr\u00e6\u00f0ingar!\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/spilakvold\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-03T18:13:59+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/Pride-Spilakvo\u2560eld-683x1024.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"683\" \/>\n\t<meta property=\"og:image:height\" content=\"1024\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/spilakvold\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/spilakvold\/\",\"name\":\"Bor\u00f0spilakv\u00f6ld - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T17:59:07+00:00\",\"dateModified\":\"2023-08-03T18:13:59+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/spilakvold\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/spilakvold\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/spilakvold\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Bor\u00f0spilakv\u00f6ld\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Bor\u00f0spilakv\u00f6ld - ",
+          "title": "Bor\u00f0spilakv\u00f6ld",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -10659,7 +10659,7 @@ const events = [
           "canonical": "https:\/\/hinsegindagar.is\/program\/spilakvold\/",
           "og_locale": "is_IS",
           "og_type": "article",
-          "og_title": "Bor\u00f0spilakv\u00f6ld - ",
+          "og_title": "Bor\u00f0spilakv\u00f6ld",
           "og_description": "H\u00fdrasta spilakv\u00f6ld \u00e1rsins ver\u00f0ur haldi\u00f0 \u00ed PRIDE CENTRE. \u00dea\u00f0 ver\u00f0a fullt af bor\u00f0spilum \u00e1 sta\u00f0num af \u00fdmsum ger\u00f0um. \u00d6ll velkomin, h\u00f3par og einstaklingar, reyndir spilarar og n\u00fdgr\u00e6\u00f0ingar!",
           "og_url": "https:\/\/hinsegindagar.is\/program\/spilakvold\/",
           "og_site_name": "",
@@ -10824,7 +10824,7 @@ const events = [
       "type": "program",
       "link": "https:\/\/hinsegindagar.is\/program\/yoga-moves-pride-med-tomasi-og-dj-margeiri\/",
       "title": {
-          "rendered": "Yoga Moves Pride me\u00f0 T\u00f3masi og DJ Margeiri"
+          "rendered": "Yoga Moves me\u00f0 T\u00f3masi og DJ Margeiri"
       },
       "content": {
           "rendered": "<p>FINNST \u00de\u00c9R GAMAN A\u00d0 DANSA?<br \/>\nVelkomin \u00ed Yoga Moves! D\u00fandur skemmtilegt yoga dans og huglei\u00f0slu part\u00fd me\u00f0 hugvekju, yogafl\u00e6\u00f0i, trylltum dansi, geggja\u00f0ri stemmningu og endurn\u00e6randi dj\u00fapsl\u00f6kun. Einst\u00f6k upplifun fyrir l\u00edkama og s\u00e1l \u00ed fallegu r\u00fdmi me\u00f0 \u00f6flugu hlj\u00f3\u00f0kerfi!<\/p>\n<p>Vi\u00f0bur\u00f0urinn a\u00f0 \u00feessu sinnu ver\u00f0ur extra fun og fabj\u00fal\u00f6s \u00ed tilefni hinsegin daga. Hvetjum alla til a\u00f0 koma \u00ed skemmtilegum og litr\u00edkum fatna\u00f0i.<br \/>\nT\u00f3mas Oddur yoga og dans \u00feerapisti lei\u00f0ir stundina me\u00f0 DJ Margeiri \u00e1 gr\u00e6junum. \u00deeir f\u00e9lagar hafa margra \u00e1ra reynslu af \u00fev\u00ed af samsk\u00f6pun \u00fear sem hreyfing, dans, t\u00f3nlist og gle\u00f0i koma vi\u00f0 s\u00f6gu. Vi\u00f0bur\u00f0urinn er \u00e1n \u00e1fengis.<\/p>\n<p>***<\/p>\n<p>Hva\u00f0 er YOGA MOVES? Yoga Moves er leiddur j\u00f3gafl\u00e6\u00f0i t\u00edmi me\u00f0 dansi \u00ed n\u00e6rveru pl\u00f6tusn\u00fa\u00f0s. \u00c1valt er byrja\u00f0 \u00e1 stuttu innslagi, huglei\u00f0slu og \u00f6ndun vi\u00f0 sey\u00f0andi t\u00f3nlist. Eftir a\u00f0 j\u00f3gafl\u00e6\u00f0i\u00f0 hefur n\u00e1\u00f0 h\u00e1marki er stigi\u00f0 \u00fat af mottunni og tekur \u00fe\u00e1 vi\u00f0 frj\u00e1ls dans. Flestir af virtustu danst\u00f3nlistar pl\u00f6tusn\u00fa\u00f0um \u00cdslands spila reglulega \u00ed Yoga Moves og fl\u00e6\u00f0ir takturinn \u00fev\u00ed fagmannlega saman. T\u00edmarnir ganga \u00fat \u00e1 a\u00f0 tengjast l\u00edkamanum, sleppa t\u00f6kunum, hafa gaman endurn\u00e6rast \u00ed allsg\u00e1\u00f0u \u00e1standi. Yoga Moves var stofna\u00f0 \u00ed febr\u00faar \u00e1ri\u00f0 2014 af T\u00f3masi Oddi Eir\u00edkssyni og hefur noti\u00f0 mikilla vins\u00e6lda s\u00ed\u00f0an. Haldnir hafa veri\u00f0 yfir 100 vi\u00f0bur\u00f0ir v\u00ed\u00f0svegar um landi\u00f0 og erlendis, t.d \u00e1 Dansverkst\u00e6\u00f0inu, Gamla B\u00ed\u00f3i, H\u00f6rpu, Hofi-Akureyri, Verboten kl\u00fabb \u00ed NYC, Karnivalinu \u00e1 Menningarn\u00f3tt og v\u00ed\u00f0ar.<\/p>\n",
@@ -10844,10 +10844,10 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "20:00:00",
           "timasetning_til": "22:00:00",
-          "stadsetning": "Yoga Shala Reykjavik, Skeifan 7, 3rd floor",
+          "stadsetning": "Yoga Shala Reykjavik",
           "flokkur_vidburdar": [
               "Skemmtun"
           ],
@@ -10882,7 +10882,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Yoga Moves Pride me\u00f0 T\u00f3masi og DJ Margeiri - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/yoga-moves-pride-med-tomasi-og-dj-margeiri\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Yoga Moves Pride me\u00f0 T\u00f3masi og DJ Margeiri - \" \/>\n<meta property=\"og:description\" content=\"FINNST \u00de\u00c9R GAMAN A\u00d0 DANSA? Velkomin \u00ed Yoga Moves! D\u00fandur skemmtilegt yoga dans og huglei\u00f0slu part\u00fd me\u00f0 hugvekju, yogafl\u00e6\u00f0i, trylltum dansi, geggja\u00f0ri stemmningu og endurn\u00e6randi dj\u00fapsl\u00f6kun. Einst\u00f6k upplifun fyrir l\u00edkama og s\u00e1l \u00ed fallegu r\u00fdmi me\u00f0 \u00f6flugu hlj\u00f3\u00f0kerfi! Vi\u00f0bur\u00f0urinn a\u00f0 \u00feessu sinnu ver\u00f0ur extra fun og fabj\u00fal\u00f6s \u00ed tilefni hinsegin daga. Hvetjum alla til a\u00f0 [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/yoga-moves-pride-med-tomasi-og-dj-margeiri\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-07T22:19:20+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/08\/Pride-Iceland-1.png\" \/>\n\t<meta property=\"og:image:width\" content=\"1080\" \/>\n\t<meta property=\"og:image:height\" content=\"450\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/png\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"1 minute\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/yoga-moves-pride-med-tomasi-og-dj-margeiri\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/yoga-moves-pride-med-tomasi-og-dj-margeiri\/\",\"name\":\"Yoga Moves Pride me\u00f0 T\u00f3masi og DJ Margeiri - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-08-07T10:14:25+00:00\",\"dateModified\":\"2023-08-07T22:19:20+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/yoga-moves-pride-med-tomasi-og-dj-margeiri\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/yoga-moves-pride-med-tomasi-og-dj-margeiri\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/yoga-moves-pride-med-tomasi-og-dj-margeiri\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Yoga Moves Pride me\u00f0 T\u00f3masi og DJ Margeiri\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Yoga Moves Pride me\u00f0 T\u00f3masi og DJ Margeiri - ",
+          "title": "Yoga Moves me\u00f0 T\u00f3masi og DJ Margeiri ",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -11081,7 +11081,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "21:00:00",
           "timasetning_til": "21:45:00",
           "stadsetning": "PRIDE CENTRE",
@@ -11119,7 +11119,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Mighty Bear - T\u00f3nleikar - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/mighty-bear-tonleikar\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Mighty Bear - T\u00f3nleikar - \" \/>\n<meta property=\"og:description\" content=\"Vertu me\u00f0 \u00e1 rafm\u00f6gnu\u00f0u og \u00f3gleymanlegu kv\u00f6ldi t\u00f3nlistar \u00e1 Reykjavik Pride! \u00deann 11. \u00e1g\u00fast klukkan 21:00 mun Mighty Bear st\u00edga \u00e1 svi\u00f0 til a\u00f0 heilla \u00e1horfendur me\u00f0 einstakri bl\u00f6ndu sinni af s\u00e1larhr\u00edfandi t\u00f3num og kraftmiklum flutningi. \ud83c\udfb5 T\u00f3nlist sem hreyfir hj\u00f6rtu: T\u00f3nlist Mighty Bear fer yfir fj\u00f6lda t\u00f3nlistarstefna, sameinar \u00fe\u00e6tti af ind\u00edpoppi, \u00fej\u00f3\u00f0lagi og s\u00e1l [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/mighty-bear-tonleikar\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-31T10:23:42+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/Mighty-Bear-e1690798832398-1.png\" \/>\n\t<meta property=\"og:image:width\" content=\"902\" \/>\n\t<meta property=\"og:image:height\" content=\"494\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/png\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"1 minute\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/mighty-bear-tonleikar\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/mighty-bear-tonleikar\/\",\"name\":\"Mighty Bear - T\u00f3nleikar - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-28T17:49:12+00:00\",\"dateModified\":\"2023-07-31T10:23:42+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/mighty-bear-tonleikar\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/mighty-bear-tonleikar\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/mighty-bear-tonleikar\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Mighty Bear &#8211; T\u00f3nleikar\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Mighty Bear - T\u00f3nleikar - ",
+          "title": "Mighty Bear - T\u00f3nleikar",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -11335,7 +11335,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "22:00:00",
           "timasetning_til": "00:30:00",
           "tengja_vid_grein": "",
@@ -11571,7 +11571,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230811",
+          "dagsetning": "5. apríl",
           "timasetning": "22:00:00",
           "timasetning_til": "03:00:00",
           "tengja_vid_grein": "",
@@ -11590,7 +11590,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Landleguball - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/landleguball-3\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Landleguball - \" \/>\n<meta property=\"og:description\" content=\"\u00d6ll besta t\u00f3nlistin hvort sem \u00fe\u00fa ert sj\u00f3kv\u00e1r e\u00f0a landkrabbi! Allur \u00e1g\u00f3\u00f0i af mi\u00f0as\u00f6lu rennur beint til Hinsegin daga. Mi\u00f0ar a\u00f0eins seldir vi\u00f0 hur\u00f0.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/landleguball-3\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-15T18:54:42+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2019\/05\/20180810-E35A3033-1024x683.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1024\" \/>\n\t<meta property=\"og:image:height\" content=\"683\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/landleguball-3\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/landleguball-3\/\",\"name\":\"Landleguball - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T18:24:09+00:00\",\"dateModified\":\"2023-07-15T18:54:42+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/landleguball-3\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/landleguball-3\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/landleguball-3\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Landleguball\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Landleguball - ",
+          "title": "Landleguball",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -11803,7 +11803,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "10:00:00",
           "timasetning_til": "14:00:00",
           "tengja_vid_grein": "",
@@ -11825,7 +11825,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Opi\u00f0 \u00ed PRIDE CENTRE 12. \u00e1g\u00fast - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre-12-agust\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Opi\u00f0 \u00ed PRIDE CENTRE 12. \u00e1g\u00fast - \" \/>\n<meta property=\"og:description\" content=\"Opi\u00f0 \u00ed allan dag \u00ed Kaupf\u00e9lagi Hinsegin daga og uppl\u00fdsingami\u00f0st\u00f6\u00f0 h\u00e1t\u00ed\u00f0arinnar. Kaffi h\u00fas og bar \u00e1 sta\u00f0nu, fj\u00f6lbreyttir vi\u00f0bur\u00f0ir og g\u00f3\u00f0 stemning.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre-12-agust\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-11T17:46:31+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/Regnbogafanar_blakandi-800x516-1.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"800\" \/>\n\t<meta property=\"og:image:height\" content=\"516\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre-12-agust\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre-12-agust\/\",\"name\":\"Opi\u00f0 \u00ed PRIDE CENTRE 12. \u00e1g\u00fast - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-08-11T17:46:30+00:00\",\"dateModified\":\"2023-08-11T17:46:31+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre-12-agust\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre-12-agust\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/opid-i-pride-centre-12-agust\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Opi\u00f0 \u00ed PRIDE CENTRE 12. \u00e1g\u00fast\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Opi\u00f0 \u00ed PRIDE CENTRE 12. \u00e1g\u00fast - ",
+          "title": "Opi\u00f0 \u00ed",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -12036,7 +12036,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "11:30:00",
           "timasetning_til": "",
           "tengja_vid_grein": "",
@@ -12055,7 +12055,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Drag Brunch - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/drag-brunch-4\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Drag Brunch - \" \/>\n<meta property=\"og:description\" content=\"Kiki Queer Bar tekur yfir S\u00f3lon \u00cdslandus! Hlj\u00f3mar \u00fea\u00f0 ekki d\u00e1samlega a\u00f0 hita upp fyrir Pride g\u00f6nguna me\u00f0 dragi, mat og drykk? A\u00f0 morgni g\u00f6ngudags mun h\u00fasdrottning Kiki Queer Bar, Faye Kn\u00fas, trylla gesti S\u00f3lon \u00cdslandus yfir gu\u00f0d\u00f3mlegum mat og veigum, tilvali\u00f0 \u00e1\u00f0ur en stokki\u00f0 er \u00fat \u00ed Bankastr\u00e6ti\u00f0 til a\u00f0 fylgjast me\u00f0 e\u00f0a taka [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/drag-brunch-4\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-03T16:25:52+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/08\/Kiki-x-Solon-Drag-Brunch-Facebook-Ad.png\" \/>\n\t<meta property=\"og:image:width\" content=\"1200\" \/>\n\t<meta property=\"og:image:height\" content=\"628\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/png\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"1 minute\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/drag-brunch-4\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/drag-brunch-4\/\",\"name\":\"Drag Brunch - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-08-03T16:25:51+00:00\",\"dateModified\":\"2023-08-03T16:25:52+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/drag-brunch-4\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/drag-brunch-4\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/drag-brunch-4\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Drag Brunch\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Drag Brunch - ",
+          "title": "Drag Brunch",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -12254,7 +12254,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "11:30:00",
           "timasetning_til": "12:30:00",
           "stadsetning": "World Class Laugar",
@@ -12290,7 +12290,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>PRIDE ZUMBA - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/pride-zumba\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"PRIDE ZUMBA - \" \/>\n<meta property=\"og:description\" content=\"PRIDE ZUMBA 12. \u00e1g\u00fast \u00ed World Class Laugum kl. 11:30\u00d6ll gle\u00f0ilegustu disk\u00f3, popp og &#8220;attitude&#8221; l\u00f6gin \u00ed \u00feessum s\u00e9rstaka \u00feema Zumba t\u00edma \u00ed tilefni af Reykjav\u00edk Pride! Komi\u00f0 og hiti\u00f0 upp fyrir gle\u00f0ig\u00f6nguna, veri\u00f0 litr\u00edk og h\u00fdr eins og regnboginn! Kennari: Fri\u00f0rik Agni World Class korthafar \u00feurfa ekki a\u00f0 grei\u00f0a fyrir t\u00edmann heldur einungis skr\u00e1 [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/pride-zumba\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-04T21:38:38+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/08\/pride-zumba.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"737\" \/>\n\t<meta property=\"og:image:height\" content=\"737\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/pride-zumba\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/pride-zumba\/\",\"name\":\"PRIDE ZUMBA - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-08-04T11:12:12+00:00\",\"dateModified\":\"2023-08-04T21:38:38+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/pride-zumba\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/pride-zumba\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/pride-zumba\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"PRIDE ZUMBA\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "PRIDE ZUMBA - ",
+          "title": "PRIDE ZUMBA",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -12501,7 +12501,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "11:30:00",
           "timasetning_til": "14:00:00",
           "tengja_vid_grein": "",
@@ -12522,7 +12522,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Drag Brunch \u00e1 Edition - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/drag-brunch-a-edition\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Drag Brunch \u00e1 Edition - \" \/>\n<meta property=\"og:description\" content=\"Dragdrottningarnar G\u00f3g\u00f3 Starr og Lola Von Heart ver\u00f0a me\u00f0 skemmtilegasta br\u00f6ns allra t\u00edma \u00e1 TIDES, laugardaginn 12. \u00e1g\u00fast fr\u00e1 kl 11:30. G\u00f3g\u00f3 og Lola sj\u00e1 um a\u00f0 hita upp fyrir Gle\u00f0ig\u00f6nguna me\u00f0 skemmtilegum upp\u00e1komum eins og \u00feeim er einum lagi\u00f0. Ver\u00f0 er 8.900kr\/11.900 botnlaus Prosecco og Mimosas\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/drag-brunch-a-edition\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-15T19:06:09+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/gogo-edition.png\" \/>\n\t<meta property=\"og:image:width\" content=\"510\" \/>\n\t<meta property=\"og:image:height\" content=\"446\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/png\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/drag-brunch-a-edition\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/drag-brunch-a-edition\/\",\"name\":\"Drag Brunch \u00e1 Edition - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T18:31:15+00:00\",\"dateModified\":\"2023-07-15T19:06:09+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/drag-brunch-a-edition\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/drag-brunch-a-edition\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/drag-brunch-a-edition\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Drag Brunch \u00e1 Edition\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Drag Brunch \u00e1 Edition - ",
+          "title": "Drag Brunch \u00e1 Edition",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -12718,7 +12718,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "12:00:00",
           "timasetning_til": "13:00:00",
           "stadsetning": "Tjarnarb\u00ed\u00f3",
@@ -12757,7 +12757,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>GILDRA - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/gildra\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"GILDRA - \" \/>\n<meta property=\"og:description\" content=\"Gildra (Trap) H\u00e9r er \u00e1 fer\u00f0inni leiklestur \u00e1 ensku \u00e1 verki eftir r\u00famenskt kynsegi\u00f0 leiksk\u00e1ld um bar\u00e1ttuna vi\u00f0 f\u00edkn vegna \u00feeirra erfi\u00f0leika sem fylgja \u00fev\u00ed a\u00f0 finnast ma\u00f0ur ekki tilheyra. Lesturinn er a\u00f0eins um 30 m\u00edn\u00fatur og stutt spjall vi\u00f0 listamanninn \u00e1 eftir. Heitt \u00e1 k\u00f6nnunni og notarlegt \u00ed Tjarnarb\u00ed\u00f3.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/gildra\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-01T12:16:56+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/Your-paragraph-text.png\" \/>\n\t<meta property=\"og:image:width\" content=\"940\" \/>\n\t<meta property=\"og:image:height\" content=\"788\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/png\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/gildra\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/gildra\/\",\"name\":\"GILDRA - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-31T18:58:40+00:00\",\"dateModified\":\"2023-08-01T12:16:56+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/gildra\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/gildra\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/gildra\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"GILDRA\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "GILDRA - ",
+          "title": "GILDRA",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -12968,7 +12968,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "14:00:00",
           "timasetning_til": "",
           "tengja_vid_grein": [
@@ -13019,7 +13019,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Gle\u00f0iganga Hinsegin daga - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/gledigangan-2\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Gle\u00f0iganga Hinsegin daga - \" \/>\n<meta property=\"og:description\" content=\"Gle\u00f0igangan er h\u00e1punktur Hinsegin daga. \u00cd henni sameinast hinsegin fj\u00f6lskyldan, \u00e1samt stu\u00f0ningsf\u00f3lki, \u00ed \u00e1kalli um s\u00fdnileika, kr\u00f6fu um meiri r\u00e9ttindi og \u00e1minningu um \u00feau bar\u00e1ttum\u00e1l sem skipta hva\u00f0 mestu m\u00e1li hverju sinni. Gle\u00f0igangan dregur nafn sitt af \u00feeirri gle\u00f0i sem vi\u00f0 upplifum yfir \u00e1unnum r\u00e9ttindum og li\u00f0sheild hinsegin fj\u00f6lskyldunnar, en gangan er \u00fe\u00f3 engu minni [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/gledigangan-2\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-16T17:14:03+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2022\/10\/IMG_9285-scaled.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"2560\" \/>\n\t<meta property=\"og:image:height\" content=\"1829\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/gledigangan-2\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/gledigangan-2\/\",\"name\":\"Gle\u00f0iganga Hinsegin daga - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T17:31:39+00:00\",\"dateModified\":\"2023-07-16T17:14:03+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/gledigangan-2\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/gledigangan-2\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/gledigangan-2\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Gle\u00f0iganga Hinsegin daga\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Gle\u00f0iganga Hinsegin daga - ",
+          "title": "Gle\u00f0iganga",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -13232,7 +13232,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "15:00:00",
           "timasetning_til": "16:30:00",
           "tengja_vid_grein": "",
@@ -13256,7 +13256,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>\u00datih\u00e1t\u00ed\u00f0 \u00ed Hlj\u00f3msk\u00e1lagar\u00f0i - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/utihatid-i-hljomskalagardi-3\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"\u00datih\u00e1t\u00ed\u00f0 \u00ed Hlj\u00f3msk\u00e1lagar\u00f0i - \" \/>\n<meta property=\"og:description\" content=\"A\u00f0 lokinni Gle\u00f0ig\u00f6ngu bj\u00f3\u00f0a  til \u00fatih\u00e1t\u00ed\u00f0ar \u00ed Hlj\u00f3msk\u00e1lagar\u00f0inum, \u00fear sem fram koma allskonar gl\u00e6silegir skemmtikraftar af \u00fdmsum toga sem eiga \u00fea\u00f0 sameiginlegt a\u00f0 fagna fj\u00f6lbreytileikanum. Um er a\u00f0 r\u00e6\u00f0a eina fj\u00f6ls\u00f3ttustu \u00fatiskemmtun \u00e1 \u00cdslandi \u00fear sem \u00f6ll eru velkomin og hv\u00f6tt til a\u00f0 syngja me\u00f0.&nbsp;\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/utihatid-i-hljomskalagardi-3\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-15T19:04:55+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2020\/08\/E35A7221-scaled.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"2560\" \/>\n\t<meta property=\"og:image:height\" content=\"1707\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"1 minute\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/utihatid-i-hljomskalagardi-3\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/utihatid-i-hljomskalagardi-3\/\",\"name\":\"\u00datih\u00e1t\u00ed\u00f0 \u00ed Hlj\u00f3msk\u00e1lagar\u00f0i - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T17:31:38+00:00\",\"dateModified\":\"2023-07-15T19:04:55+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/utihatid-i-hljomskalagardi-3\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/utihatid-i-hljomskalagardi-3\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/utihatid-i-hljomskalagardi-3\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"\u00datih\u00e1t\u00ed\u00f0 \u00ed Hlj\u00f3msk\u00e1lagar\u00f0i\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "\u00datih\u00e1t\u00ed\u00f0 \u00ed Hlj\u00f3msk\u00e1lagar\u00f0i - ",
+          "title": "\u00datih\u00e1t\u00ed\u00f0",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -13455,10 +13455,10 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "16:30:00",
           "timasetning_til": "20:00:00",
-          "stadsetning": "G\u00f6tuboltav\u00f6llur Nova \u00e1 Mi\u00f0bakka hj\u00e1 H\u00f6fninni \u00e1 Geirsg\u00f6tu",
+          "stadsetning": "H\u00f6fn \u00e1 Geirsg\u00f6tu",
           "flokkur_vidburdar": [
               "Skemmtun"
           ],
@@ -13493,7 +13493,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Glimmer&amp;Karaoke \u00e1 G\u00f6tuboltavelli Nova! - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/glimmerkaraoke-a-gotuboltavelli-nova\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Glimmer&amp;Karaoke \u00e1 G\u00f6tuboltavelli Nova! - \" \/>\n<meta property=\"og:description\" content=\"\u00dea\u00f0 ver\u00f0ur endalaus gle\u00f0i og glimmerstu\u00f0 \u00e1 G\u00f6tuboltavelli Nova \ud83d\udc9b\ud83d\udc9a\ud83d\udc99\ud83d\udc9c M\u00e6ttu \u00e1 sv\u00e6\u00f0i\u00f0, glimmera\u00f0u \u00feig \u00ed gang, taktu lagi\u00f0 \u00ed karaoke og komdu \u00fe\u00e9r \u00ed gl\u00e6silegasta g\u00edrinn! Svona ver\u00f0ur \u00feetta! \ud83d\udc47\ud83c\udffc \u272816:30\u2728 Glimmerm\u00e1lun \u00ed Fr\u00edttSt\u00f6ff! \ud83c\udfa417:30\ud83c\udfa4 Opi\u00f0 Karaoke me\u00f0 Hits&amp;Tits! Vi\u00f0 ver\u00f0um me\u00f0 bolaprentun \u00e1 sv\u00e6\u00f0inu \u00fear sem \u00fe\u00fa getur l\u00e1ti\u00f0 prenta allt sem \u00fe\u00fa [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/glimmerkaraoke-a-gotuboltavelli-nova\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-07T22:15:05+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/08\/1920x1080@2x-1024x576.png\" \/>\n\t<meta property=\"og:image:width\" content=\"1024\" \/>\n\t<meta property=\"og:image:height\" content=\"576\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/png\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/glimmerkaraoke-a-gotuboltavelli-nova\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/glimmerkaraoke-a-gotuboltavelli-nova\/\",\"name\":\"Glimmer&amp;Karaoke \u00e1 G\u00f6tuboltavelli Nova! - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-08-03T11:17:19+00:00\",\"dateModified\":\"2023-08-07T22:15:05+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/glimmerkaraoke-a-gotuboltavelli-nova\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/glimmerkaraoke-a-gotuboltavelli-nova\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/glimmerkaraoke-a-gotuboltavelli-nova\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Glimmer&amp;Karaoke \u00e1 G\u00f6tuboltavelli Nova!\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Glimmer&amp;Karaoke \u00e1 G\u00f6tuboltavelli Nova! - ",
+          "title": "Glimmer&amp;Karaoke",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -13706,7 +13706,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "16:30:00",
           "timasetning_til": "18:00:00",
           "tengja_vid_grein": "",
@@ -13728,7 +13728,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Ungmenni: Grillpart\u00fd - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/ungmenni-grillparty\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Ungmenni: Grillpart\u00fd - \" \/>\n<meta property=\"og:description\" content=\"Eftir geggja\u00f0a g\u00f6ngu og skemmtiatri\u00f0i \u00ed Hlj\u00f3msk\u00e1lagar\u00f0inum f\u00f6gnum vi\u00f0 \u00e1fram og hittumst hj\u00e1 h\u00fasn\u00e6\u00f0i Samtakanna &#8217;78. \u00dear ver\u00f0ur grilla\u00f0 og bo\u00f0i\u00f0 upp \u00e1 alls konar g\u00f3\u00f0g\u00e6ti. T\u00f3nlist, grill og gle\u00f0i ver\u00f0ur a\u00f0alm\u00e1li\u00f0 og fr\u00e1b\u00e6rt t\u00e6kif\u00e6ri a\u00f0 fagna flottri g\u00f6ngu.\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/ungmenni-grillparty\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-28T12:27:03+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/I22_1997-scaled.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"2560\" \/>\n\t<meta property=\"og:image:height\" content=\"1707\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/ungmenni-grillparty\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/ungmenni-grillparty\/\",\"name\":\"Ungmenni: Grillpart\u00fd - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T18:27:38+00:00\",\"dateModified\":\"2023-07-28T12:27:03+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/ungmenni-grillparty\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/ungmenni-grillparty\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/ungmenni-grillparty\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Ungmenni: Grillpart\u00fd\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Ungmenni: Grillpart\u00fd - ",
+          "title": "Ungmenni: Grillpart\u00fd",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -13941,7 +13941,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "21:00:00",
           "timasetning_til": "01:00:00",
           "tengja_vid_grein": "",
@@ -13960,7 +13960,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>P\u00e1ll \u00d3skar \u00ed Gamla b\u00ed\u00f3i - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/pall-oskar-pride-ball-i-gamla-bioi-2023\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"P\u00e1ll \u00d3skar \u00ed Gamla b\u00ed\u00f3i - \" \/>\n<meta property=\"og:description\" content=\"P\u00e1ll \u00d3skar keyrir \u00e1fram\u00a0ball \u00ed\u00a0Gamla b\u00ed\u00f3i\u00a012. \u00e1g\u00fast af stakri snilld \u00e1samt d\u00f6nsurum og fylgdarli\u00f0i.\u00a0 Allur \u00e1g\u00f3\u00f0i rennur \u00f3skiptur \u00ed a\u00f0 halda \u00feetta ball og kostna\u00f0 vi\u00f0 trukkinn\u00a0\u00ed Gle\u00f0ig\u00f6ngunni.\u00a0 Fyrstir koma, fyrstir f\u00e1 og \u00fea\u00f0 borgar sig a\u00f0 plana \u00feetta djamm me\u00f0 g\u00f3\u00f0um fyrirvara.\u00a0 Negli\u00f0 mi\u00f0a n\u00fana.\u00a0 Pl\u00eds.\u00a0 H\u00fasi\u00f0 opnar kl. 21.00 Palli keyrir stu\u00f0i\u00f0 \u00e1fram [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/pall-oskar-pride-ball-i-gamla-bioi-2023\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-26T14:20:10+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/PALLI-Sumar-2023-3-scaled.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"2560\" \/>\n\t<meta property=\"og:image:height\" content=\"1927\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/pall-oskar-pride-ball-i-gamla-bioi-2023\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/pall-oskar-pride-ball-i-gamla-bioi-2023\/\",\"name\":\"P\u00e1ll \u00d3skar \u00ed Gamla b\u00ed\u00f3i - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-24T11:49:17+00:00\",\"dateModified\":\"2023-07-26T14:20:10+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/pall-oskar-pride-ball-i-gamla-bioi-2023\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/pall-oskar-pride-ball-i-gamla-bioi-2023\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/pall-oskar-pride-ball-i-gamla-bioi-2023\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"P\u00e1ll \u00d3skar \u00ed Gamla b\u00ed\u00f3i\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "P\u00e1ll \u00d3skar \u00ed Gamla b\u00ed\u00f3i - ",
+          "title": "P\u00e1ll \u00d3skar \u00ed Gamla b\u00ed\u00f3i",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -14156,7 +14156,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "21:00:00",
           "timasetning_til": "23:00:00",
           "stadsetning": "Kiki Queer Bar",
@@ -14191,7 +14191,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Sherry Vine is Everybody&#039;s Girl - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/sherry-vine-is-everybodys-girl\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Sherry Vine is Everybody&#039;s Girl - \" \/>\n<meta property=\"og:description\" content=\"Hin eina sanna Sherry Vine er komin alla lei\u00f0 fr\u00e1 Bandar\u00edkjunum til a\u00f0 fagna me\u00f0 okkur 10 \u00e1ra afm\u00e6li Kiki Queer Bar! \u00cd s\u00fdningunni fer h\u00fan me\u00f0 \u00e1horfendur \u00ed s\u00f3\u00f0alegt fer\u00f0alag \u00ed gl\u00e6n\u00fdrri s\u00fdningu, st\u00fatfullri af s\u00f6ng, gr\u00edni og h\u00fdru glensi \u00fear sem sn\u00fai\u00f0 er \u00fat \u00far sl\u00f6gurum sem vi\u00f0 \u00f6ll \u00feekkjum! Mi\u00f0aver\u00f0 er einungis [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/sherry-vine-is-everybodys-girl\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-03T16:26:45+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/08\/682D96F0-9326-48BE-8F1A-D9C71C051813.jpeg\" \/>\n\t<meta property=\"og:image:width\" content=\"1920\" \/>\n\t<meta property=\"og:image:height\" content=\"1080\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/sherry-vine-is-everybodys-girl\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/sherry-vine-is-everybodys-girl\/\",\"name\":\"Sherry Vine is Everybody's Girl - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-08-02T21:09:00+00:00\",\"dateModified\":\"2023-08-03T16:26:45+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/sherry-vine-is-everybodys-girl\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/sherry-vine-is-everybodys-girl\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/sherry-vine-is-everybodys-girl\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Sherry Vine is Everybody&#8217;s Girl\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Sherry Vine is Everybody's Girl - ",
+          "title": "Sherry Vine is Everybody's Girl",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -14404,7 +14404,7 @@ const events = [
               "country": "\u00cdsland",
               "country_short": "IS"
           },
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "22:00:00",
           "timasetning_til": "03:00:00",
           "tengja_vid_grein": "",
@@ -14427,7 +14427,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Lokah\u00f3f Hinsegin daga - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/lokahof-hinsegin-daga\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Lokah\u00f3f Hinsegin daga - \" \/>\n<meta property=\"og:description\" content=\"Komi\u00f0 og veri\u00f0 me\u00f0 \u00e1 lokah\u00f3fi Hinsegin daga. \u00cdslenskir hinsegin pl\u00f6tusn\u00fa\u00f0ar og fj\u00f6lbreytt lifandi atri\u00f0i til a\u00f0 r\u00edfa upp stemninguna en umfram allt r\u00fdmi til a\u00f0 sleppa s\u00e9r a\u00f0eins, nj\u00f3ta samverunnar \u00e1 dansg\u00f3lfinu og lj\u00faka Hinsegin d\u00f6gum me\u00f0 st\u00e6l. Mi\u00f0astefna Hinsegin daga og fr\u00edmi\u00f0ar  bj\u00f3\u00f0a upp \u00e1 fj\u00f6lmarga \u00f3keypis vi\u00f0bur\u00f0i. \u00cd \u00f6\u00f0rum tilvikum [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/lokahof-hinsegin-daga\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-28T00:45:58+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2021\/07\/IdnoReykjavikpridepinkparty-JulietteRowland160-scaled.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"2560\" \/>\n\t<meta property=\"og:image:height\" content=\"1707\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"1 minute\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/lokahof-hinsegin-daga\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/lokahof-hinsegin-daga\/\",\"name\":\"Lokah\u00f3f Hinsegin daga - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-15T18:34:06+00:00\",\"dateModified\":\"2023-07-28T00:45:58+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/lokahof-hinsegin-daga\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/lokahof-hinsegin-daga\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/lokahof-hinsegin-daga\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Lokah\u00f3f Hinsegin daga\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Lokah\u00f3f Hinsegin daga - ",
+          "title": "Lokah\u00f3f",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -14626,7 +14626,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230812",
+          "dagsetning": "6. apríl",
           "timasetning": "23:00:00",
           "timasetning_til": "04:30:00",
           "stadsetning": "Kiki Queer Bar",
@@ -14857,7 +14857,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230813",
+          "dagsetning": "8.apríl",
           "timasetning": "11:30:00",
           "timasetning_til": "13:30:00",
           "stadsetning": "Norr\u00e6na h\u00fasi\u00f0",
@@ -14897,7 +14897,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Fj\u00f6lskyldustund og S\u00f6gustund \u00e1 norsku - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/fjolskyldustund-og-sogustund-a-norsku\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Fj\u00f6lskyldustund og S\u00f6gustund \u00e1 norsku - \" \/>\n<meta property=\"og:description\" content=\"Veri\u00f0 velkomin \u00e1 S\u00f6gustund &amp; Verkst\u00e6\u00f0i \u00e1 Sunnudeginum 13.08 kl 11:30-13:30. Vi\u00f0 f\u00f6gnum saman me\u00f0 \u00fev\u00ed a\u00f0 lesa saman b\u00f3kina Ollianna. Ollianna er n\u00fd myndab\u00f3k fr\u00e1 Gro Dahle um a\u00f0 velta \u00fev\u00ed fyrir s\u00e9r hvort \u00fe\u00fa s\u00e9rt str\u00e1kur e\u00f0a stelpa og hva\u00f0 gerist ef \u00fe\u00fa \u00feorir a\u00f0 vera \u00fe\u00fa sj\u00e1lfur. H\u00f6fundarnir taka upp st\u00f3r \u00feemu [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/fjolskyldustund-og-sogustund-a-norsku\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-04T21:41:37+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/08\/IMG_9450-scaled.jpeg\" \/>\n\t<meta property=\"og:image:width\" content=\"2362\" \/>\n\t<meta property=\"og:image:height\" content=\"2560\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"1 minute\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/fjolskyldustund-og-sogustund-a-norsku\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/fjolskyldustund-og-sogustund-a-norsku\/\",\"name\":\"Fj\u00f6lskyldustund og S\u00f6gustund \u00e1 norsku - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-08-04T21:15:28+00:00\",\"dateModified\":\"2023-08-04T21:41:37+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/fjolskyldustund-og-sogustund-a-norsku\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/fjolskyldustund-og-sogustund-a-norsku\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/fjolskyldustund-og-sogustund-a-norsku\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Fj\u00f6lskyldustund og S\u00f6gustund \u00e1 norsku\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Fj\u00f6lskyldustund og S\u00f6gustund \u00e1 norsku - ",
+          "title": "Fj\u00f6lskyldustund",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -15096,7 +15096,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230813",
+          "dagsetning": "8.apríl",
           "timasetning": "20:00:00",
           "timasetning_til": "01:00:00",
           "stadsetning": "Kiki Queer Bar",
@@ -15130,7 +15130,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Like a Virgin! Open Drag Stage - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/like-a-virgin-open-drag-stage\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Like a Virgin! Open Drag Stage - \" \/>\n<meta property=\"og:description\" content=\"H\u00fasdrottning Kiki Queer Bar, Faye Kn\u00fas, b\u00fd\u00f0ur \u00f6ll velkomin me\u00f0 s\u00e9r \u00e1 svi\u00f0 til a\u00f0 loka \u00feessari gle\u00f0iviku. Langar \u00feig \u00ed fyrsta skipti a\u00f0 skella \u00fe\u00e9r \u00ed drag? Kannski oft \u00ed dragi en aldrei komi\u00f0 fram \u00e1 svi\u00f0i? \u00der\u00e6lvanur dragk\u00f3ngur? E\u00f0a langar bara a\u00f0 \u00fdta undir allskonar kynusla? \u00de\u00e1 er \u00feetta kv\u00f6ldi\u00f0 fyrir \u00feig! Engin [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/like-a-virgin-open-drag-stage\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-08-03T10:45:31+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/08\/0B164110-ECEA-4B4F-900F-AB19F026EE85.jpeg\" \/>\n\t<meta property=\"og:image:width\" content=\"1920\" \/>\n\t<meta property=\"og:image:height\" content=\"1080\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/like-a-virgin-open-drag-stage\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/like-a-virgin-open-drag-stage\/\",\"name\":\"Like a Virgin! Open Drag Stage - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-08-02T21:26:44+00:00\",\"dateModified\":\"2023-08-03T10:45:31+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/like-a-virgin-open-drag-stage\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/like-a-virgin-open-drag-stage\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/like-a-virgin-open-drag-stage\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Like a Virgin! Open Drag Stage\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "Like a Virgin! Open Drag Stage - ",
+          "title": "Like a Virgin!",
           "robots": {
               "index": "index",
               "follow": "follow",
@@ -15326,7 +15326,7 @@ const events = [
           "_monsterinsights_sitenote_category": 0
       },
       "acf": {
-          "dagsetning": "20230813",
+          "dagsetning": "8.apríl",
           "timasetning": "20:00:00",
           "timasetning_til": "00:00:00",
           "stadsetning": "Gaukurinn",
@@ -15361,7 +15361,7 @@ const events = [
       "aioseo_notices": [],
       "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.11 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>RMSSSDLP - <\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/hinsegindagar.is\/program\/rmsssdlp\/\" \/>\n<meta property=\"og:locale\" content=\"is_IS\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"RMSSSDLP - \" \/>\n<meta property=\"og:description\" content=\"RMSSSDLP er semi reglulegur BDSM play party vi\u00f0bur\u00f0ur \u00ed Reykjavik. ATH: \u00fea\u00f0 \u00fearf a\u00f0 melda sig \u00e1 vi\u00f0bur\u00f0inn \u00e1 Fetlife e\u00f0a senda p\u00f3st \u00e1 rmsssdlp@gmail.com til a\u00f0 komast \u00e1 gestalista GESTALISTANUM VER\u00d0UR LOKA\u00d0 KL. 16:00 \u00c1 DEGI VI\u00d0BUR\u00d0ARINNS Dyrunum ver\u00f0ur loka\u00f0 kl. 22:00 og n\u00fdjum gestum ekki hleypt inn eftir \u00fea\u00f0. Dresscode: BDSM fetish alternative [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/hinsegindagar.is\/program\/rmsssdlp\/\" \/>\n<meta property=\"og:site_name\" content=\"\" \/>\n<meta property=\"article:publisher\" content=\"https:\/\/www.facebook.com\/reykjavikpride\" \/>\n<meta property=\"article:modified_time\" content=\"2023-07-31T14:06:55+00:00\" \/>\n<meta property=\"og:image\" content=\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2023\/07\/logo.jpg\" \/>\n\t<meta property=\"og:image:width\" content=\"1000\" \/>\n\t<meta property=\"og:image:height\" content=\"1000\" \/>\n\t<meta property=\"og:image:type\" content=\"image\/jpeg\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:site\" content=\"@ReykjavikPride\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\" \/>\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/rmsssdlp\/\",\"url\":\"https:\/\/hinsegindagar.is\/program\/rmsssdlp\/\",\"name\":\"RMSSSDLP - \",\"isPartOf\":{\"@id\":\"https:\/\/hinsegindagar.is\/#website\"},\"datePublished\":\"2023-07-31T13:37:33+00:00\",\"dateModified\":\"2023-07-31T14:06:55+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/hinsegindagar.is\/program\/rmsssdlp\/#breadcrumb\"},\"inLanguage\":\"is\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/hinsegindagar.is\/program\/rmsssdlp\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/hinsegindagar.is\/program\/rmsssdlp\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/hinsegindagar.is\/en\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"RMSSSDLP\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\/\/hinsegindagar.is\/#website\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"name\":\"\",\"description\":\"Menning, mannr\u00e9ttindi og margbreytileiki!\",\"publisher\":{\"@id\":\"https:\/\/hinsegindagar.is\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/hinsegindagar.is\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"is\"},{\"@type\":\"Organization\",\"@id\":\"https:\/\/hinsegindagar.is\/#organization\",\"name\":\" - Reykjavik Pride\",\"url\":\"https:\/\/hinsegindagar.is\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"is\",\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\",\"url\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"contentUrl\":\"https:\/\/hinsegindagar.is\/wp-content\/uploads\/2015\/06\/Hinsegin.dagar_.logo_.png\",\"width\":960,\"height\":945,\"caption\":\" - Reykjavik Pride\"},\"image\":{\"@id\":\"https:\/\/hinsegindagar.is\/#\/schema\/logo\/image\/\"},\"sameAs\":[\"https:\/\/www.facebook.com\/reykjavikpride\",\"https:\/\/twitter.com\/ReykjavikPride\",\"https:\/\/instagram.com\/reykjavikpride\/\"]}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
       "yoast_head_json": {
-          "title": "RMSSSDLP - ",
+          "title": "RMSSSDLP",
           "robots": {
               "index": "index",
               "follow": "follow",
