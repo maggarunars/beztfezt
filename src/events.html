@@ -40,7 +40,7 @@
 <!-- comment -->
     </section>
     <!-- Filter sidebar menu -->
-    <div class="w-full flex justify-end fixed">
+    <div class="z-10 w-full flex justify-end fixed">
         <div class="fixed flex justify-end flex-col" id="dropdownButton">
             <div onclick="toggleDropdown()" class=" bg-blue px-5 py-5 rounded-tl-xl font-bold flex justify-center">
                 <img src="/src/images/filterIcon.svg"  alt="filterIcon">
@@ -76,6 +76,12 @@
 
 
     <!-- Event cards -->
+    <section class="text-white" id="eventContainer">
+       
+        <!-- <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
+            <div class="flex flex-col justify-evenly">
+                <div class="px-4">
+                    <h2 class="font-bold text-white text-2xl">Festival name</h2>
     <section class="text-white"">
         <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
             <div class="flex flex-col justify-evenly py-2 w-60">
@@ -85,10 +91,10 @@
                 </div>
                 <div class="flex justify-between px-4 gap-3">
                     <div class="flex items-center">
-                        <!-- <img src="/src/images/heartFillIcon.svg" alt="heartFillIcon" id="icon" class="text-orange" onclick="color()"> -->
+                        <img src="/src/images/heartFillIcon.svg" alt="heartFillIcon" id="icon" class="text-orange" onclick="color()"> 
                         <ion-icon class="text-4xl text-white" name="heart" id="icon"></ion-icon>
-                        <!-- <ion-icon class="text-4xl" name="heart-outline"></ion-icon>
-                        <ion-icon class="text-4xl" name="share-outline"></ion-icon> -->
+                        <ion-icon class="text-4xl" name="heart-outline"></ion-icon>
+                        <ion-icon class="text-4xl" name="share-outline"></ion-icon> 
                     </div>
                     <div class="flex-col px-4">
                         <p class="flex justify-end">8. april</p>
@@ -97,97 +103,11 @@
                 </div>
             </div>
             <div>
-                <img class="rounded-xl" src="/src/images/vegan.png" alt="vegan">
+            
+                <img class="rounded-xl" src="https://picsum.photos/150" alt="">
             </div>
-        </div>
+        </div>-->
 
-        <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
-            <div class="flex flex-col justify-evenly py-2 w-60">
-                <div class="pl-4">
-                    <h3 class="font-bold text-white text-xl">Flea Market</h3>
-                    <h3>Location</h3>
-                </div>
-                <div class="flex justify-between pl-4 gap-3">
-                    <div class="flex items-center gap-2 pt-2">
-                        <img src="images/hearticon.svg" alt="heart" class="text-4xl" name="heart-outline">
-                        <img src="images/shareicon.svg" alt="share" class="text-4xl" name="share-outline">
-                    </div>
-                    <div class="flex-col px-4">
-                        <p class="flex justify-end">8. april</p>
-                        <p class="flex justify-end">15:00 - 21:00</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <img class="rounded-xl" src="/src/images/flea.png" alt="vegan">
-            </div>
-        </div>
-
-        <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
-            <div class="flex flex-col justify-evenly py-2 w-60">
-                <div class="pl-4">
-                    <h3 class="font-bold text-white text-xl">Concert</h3>
-                    <h3>Location</h3>
-                </div>
-                <div class="flex justify-between pl-4 gap-3">
-                    <div class="flex items-center gap-2 pt-2">
-                        <img src="images/hearticon.svg" alt="heart" class="text-4xl" name="heart-outline">
-                        <img src="images/shareicon.svg" alt="share" class="text-4xl" name="share-outline">
-                    </div>
-                    <div class="flex-col px-4">
-                        <p class="flex justify-end">8. april</p>
-                        <p class="flex justify-end">15:00 - 21:00</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <img class="rounded-xl" src="/src/images/concert.png" alt="vegan">
-            </div>
-        </div>
-
-        <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
-            <div class="flex flex-col justify-evenly py-2 w-60">
-                <div class="pl-4">
-                    <h3 class="font-bold text-white text-xl">Roller Coaster</h3>
-                    <h3>Location</h3>
-                </div>
-                <div class="flex justify-between pl-4 gap-3">
-                    <div class="flex items-center gap-2 pt-2">
-                        <img src="images/hearticon.svg" alt="heart" class="text-4xl" name="heart-outline">
-                        <img src="images/shareicon.svg" alt="share" class="text-4xl" name="share-outline">
-                    </div>
-                    <div class="flex-col px-4">
-                        <p class="flex justify-end">8. april</p>
-                        <p class="flex justify-end">15:00 - 21:00</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <img class="rounded-xl" src="/src/images/roller.png" alt="vegan">
-            </div>
-        </div>
-
-        <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
-            <div class="flex flex-col justify-evenly py-2 w-60">
-                <div class="pl-4">
-                    <h3 class="font-bold text-white text-xl">Vegan festival</h3>
-                    <h3>Location</h3>
-                </div>
-                <div class="flex justify-between pl-4 gap-3">
-                    <div class="flex items-center gap-2 pt-2">
-                        <img src="images/hearticon.svg" alt="heart" class="text-4xl" name="heart-outline">
-                        <img src="images/shareicon.svg" alt="share" class="text-4xl" name="share-outline">
-                    </div>
-                    <div class="flex-col px-4">
-                        <p class="flex justify-end">8. april</p>
-                        <p class="flex justify-end">15:00 - 21:00</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <img class="rounded-xl" src="/src/images/vegan.png" alt="vegan">
-            </div>
-        </div>
     </section>
 
     <!-- sticky navbar menu -->
@@ -204,7 +124,8 @@
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 
-    <!-- this needs to be moved to ts file -->
+    <script src="events.js"></script>
     <script src="main.js"></script>
+    
 </body>
 </html>
