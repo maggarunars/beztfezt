@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../dist/output.css">
     <link rel="stylesheet" href="style.css">
-    <title>Document</title>
+    <title>My Events</title>
 </head>
 <body class="font-lexend">
-    <header class="pt-12 bg-blue flex justify-center align-middle mb-4 text-center">
-        <h1 class="pb-2 text-2xl font-bold text-orange">MY EVENTS</h1>
+    <header class="pt-12 flex justify-center align-middle mb-4 text-center">
+        <h1 class="pb-2 text-2xl font-bold text-green">MY EVENTS</h1>
     </header>
      <!-- Filter sidebar menu -->
      <div class="w-full flex justify-end fixed">
@@ -53,17 +53,25 @@
                 <img class="rounded-xl" src="https://picsum.photos/150" alt="">
             </div>
         </div> -->
+
+<!-- This needs a list for the Event Cards that will be favorited and arranged by time value -->
+<ul class="favoriteList"></ul>
+
     </section>
-    <nav class="navbar">
-        <div class="navbarin">
-            <img id="hom" src="images/homeicon.svg" alt="home"> 
-            <img id="cal" src="images/calendaricon.svg" alt="calendar">
-            <img id="loc" src="images/locationicon.svg" alt="location">
-            <img id="mye" src="images/hearticon.svg" alt="my events">
-        </div>        
-    </nav>
+     <!-- sticky navbar menu -->
+     <footer class="pt-16">
+        <nav class="bg-blue border-t-4 border-t-green fixed bottom-0 w-full p-4">
+            <div class="flex justify-around">
+                          <a class="flex items-center" href="/index.html"><img src="images/homeicon.svg" alt="home"class="text-3xl text-white" name="home-outline"></a>
+                          <a class="flex items-center" href="events.html"><img src="images/calendaricon.svg" alt="home"class="text-3xl text-white" name="home-outline"></a>
+ <!-- need location -->   <a class="flex items-center" href="myevents.html"><img src="images/locationicon.svg" alt="home"class="text-3xl text-white" name="home-outline"></a>
+                          <a class="flex items-center" href="myevents.html"><img src="images/hearticon.svg" alt="home"class="text-3xl text-white" name="home-outline"></a>
+            </div>            
+        </nav>
+    </footer>
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    
     <script src="main.js"></script>
 </body>
 </html>
