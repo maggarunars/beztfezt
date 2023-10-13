@@ -40,7 +40,7 @@
 <!-- comment -->
     </section>
     <!-- Filter sidebar menu -->
-    <div class="w-full flex justify-end fixed">
+    <div class="z-10 w-full flex justify-end fixed">
         <div class="fixed flex justify-end flex-col" id="dropdownButton">
             <div onclick="toggleDropdown()" class=" bg-blue px-5 py-5 rounded-tl-xl font-bold flex justify-center">
                 <img src="/src/images/filterIcon.svg"  alt="filterIcon">
@@ -76,8 +76,9 @@
 
 
     <!-- Event cards -->
-    <section class="text-white"">
-        <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
+    <section class="text-white" id="eventContainer">
+       
+        <!-- <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
             <div class="flex flex-col justify-evenly">
                 <div class="px-4">
                     <h2 class="font-bold text-white text-2xl">Festival name</h2>
@@ -95,98 +96,11 @@
                 </div>
             </div>
             <div>
-                <!-- there is just a random image here just to see how it looks -->
+            
                 <img class="rounded-xl" src="https://picsum.photos/150" alt="">
             </div>
-        </div>
-        <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
-            <div class="flex flex-col justify-evenly">
-                <div class="px-4">
-                    <h2 class="font-bold text-2xl">Festival name</h2>
-                    <h3>Location</h3>
-                </div>
-                <div class="flex justify-between px-4 gap-3">
-                    <div class="flex items-center">
-                        <ion-icon class="text-4xl" name="heart-outline"></ion-icon>
-                        <ion-icon class="text-4xl" name="share-outline"></ion-icon>
-                    </div>
-                    <div>
-                        <p class="flex justify-end">8. april</p>
-                        <p>15:00 - 21:00</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <!-- there is just a random image here just to see how it looks -->
-                <img class="rounded-xl" src="https://picsum.photos/150" alt="">
-            </div>
-        </div>
-        <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
-            <div class="flex flex-col justify-evenly">
-                <div class="px-4">
-                    <h2 class="font-bold text-2xl">Festival name</h2>
-                    <h3>Location</h3>
-                </div>
-                <div class="flex justify-between px-4 gap-3">
-                    <div class="flex items-center">
-                        <ion-icon class="text-4xl" name="heart-outline"></ion-icon>
-                        <ion-icon class="text-4xl" name="share-outline"></ion-icon>
-                    </div>
-                    <div>
-                        <p class="flex justify-end">8. april</p>
-                        <p>15:00 - 21:00</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <!-- there is just a random image here just to see how it looks -->
-                <img class="rounded-xl" src="https://picsum.photos/150" alt="">
-            </div>
-        </div>
-        <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
-            <div class="flex flex-col justify-evenly">
-                <div class="px-4">
-                    <h2 class="font-bold text-2xl">Festival name</h2>
-                    <h3>Location</h3>
-                </div>
-                <div class="flex justify-between px-4 gap-3">
-                    <div class="flex items-center">
-                        <ion-icon class="text-4xl" name="heart-outline"></ion-icon>
-                        <ion-icon class="text-4xl" name="share-outline"></ion-icon>
-                    </div>
-                    <div>
-                        <p class="flex justify-end">8. april</p>
-                        <p>15:00 - 21:00</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <!-- there is just a random image here just to see how it looks -->
-                <img class="rounded-xl" src="https://picsum.photos/150" alt="">
-            </div>
-        </div>
-        <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
-            <div class="flex flex-col justify-evenly">
-                <div class="px-4">
-                    <h2 class="font-bold text-2xl">Festival name</h2>
-                    <h3>Location</h3>
-                </div>
-                <div class="flex justify-between px-4 gap-3">
-                    <div class="flex items-center">
-                        <ion-icon class="text-4xl" name="heart-outline"></ion-icon>
-                        <ion-icon class="text-4xl" name="share-outline"></ion-icon>
-                    </div>
-                    <div>
-                        <p class="flex justify-end">8. april</p>
-                        <p>15:00 - 21:00</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <!-- there is just a random image here just to see how it looks -->
-                <img class="rounded-xl" src="https://picsum.photos/150" alt="">
-            </div>
-        </div>
+        </div>-->
+
     </section>
 
     <!-- sticky navbar menu -->
@@ -203,7 +117,8 @@
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 
-    <!-- this needs to be moved to ts file -->
+    <script src="events.js"></script>
     <script src="main.js"></script>
+    
 </body>
 </html>
