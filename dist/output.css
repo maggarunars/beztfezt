@@ -1880,6 +1880,15 @@ video {
   background-color: rgb(251 251 251 / var(--tw-bg-opacity));
 }
 
+.bg-red-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(153 27 27 / var(--tw-bg-opacity));
+}
+
+.to-red-900 {
+  --tw-gradient-to: #7f1d1d var(--tw-gradient-to-position);
+}
+
 .decoration-slice {
   -webkit-box-decoration-break: slice;
           box-decoration-break: slice;
@@ -2487,6 +2496,10 @@ video {
 
 .outline-double {
   outline-style: double;
+}
+
+.outline-red-600 {
+  outline-color: #dc2626;
 }
 
 .ring {
