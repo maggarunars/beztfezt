@@ -108,8 +108,8 @@ const iconHeart = document.getElementById('heart');
 //     `
 // })
 
-
- document.addEventListener('DOMContentLoaded', function () {
+// THIS CREATES THE EVENT LIST ON EVENTS.HTML
+document.addEventListener('DOMContentLoaded', function () {
     const eventContainer = document.querySelector("#eventContainer") as HTMLElement;
         // forEach loop
     events.forEach((event) => {

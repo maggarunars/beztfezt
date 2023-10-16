@@ -90,6 +90,7 @@ document.addEventListener('DOMContentLoaded', function () {
 //         </div>
 //     `
 // })
+// THIS CREATES THE EVENT LIST ON EVENTS.HTML
 document.addEventListener('DOMContentLoaded', function () {
     const eventContainer = document.querySelector("#eventContainer");
     // forEach loop
