@@ -14,15 +14,15 @@ function colorChange(iconBtn) {
     iconBtn.style.backgroundColor = "#F9994E";
 }
 // this function doesnt work I think
-document.addEventListener('DOMContentLoaded', function () {
-    const iconHeart = document.getElementById('heart');
-    if (iconHeart) {
-        iconHeart.addEventListener('click', function () {
-            // Change the color to red when clicked
-            iconHeart.style.backgroundColor = 'red';
-        });
-    }
-});
+// document.addEventListener('DOMContentLoaded', function () {
+// const iconHeart = document.getElementById('heart');
+//     if (iconHeart) {
+//          iconHeart.addEventListener('click', function () {
+//              // Change the color to red when clicked
+//             iconHeart.style.backgroundColor = 'red';
+//          });
+//      }
+//  });
 // // document.addEventListener('DOMContentLoaded', function () {
 // //     const icon = document.getElementById('icon') as HTMLElement;
 // //     if (icon) {
@@ -123,11 +123,12 @@ document.addEventListener('DOMContentLoaded', function () {
         `;
         // Add the new div to the event container
         eventContainer.appendChild(eventDiv);
+        // defining the heart and fetching the icons that should change. 
         const heart = eventDiv.querySelector('ion-icon');
         heart.addEventListener('click', function () {
             console.log(heart.style.color); // did this to see what color the heart is already
-            if (heart.style.color === 'rgb(255, 0, 0)') {
-                heart.style.color = 'rgb(255, 255, 255)';
+            if (heart.style.color === 'rgb(249, 153, 78)') { //this should be the right orange color
+                heart.style.color = 'rgb(255, 255, 255)'; //need to figure out the fill action
             }
             else {
                 const favoritesStr = localStorage.getItem('favorites'); //It can have the same name
@@ -138,7 +139,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 favoritesArray.push(eventDiv.innerHTML);
                 const newString = JSON.stringify(favoritesArray); //this line and the two next ones were inside the if/else but to avoid DRY we pulled them. 
                 localStorage.setItem("favorites", newString); // 
-                heart.style.color = 'rgb(255, 0, 0)';
+                heart.style.color = 'rgb(249, 153, 78)';
             }
         });
     });
