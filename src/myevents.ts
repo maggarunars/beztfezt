@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     heart.addEventListener('click', function(){
         const favoritesStr = localStorage.getItem('favorites');
-        let favoritesArray = favoritesStr ? JSON.parse(favoritesStr) : [];
+        let favoritesArray = favoritesStr ? JSON.parse(favoritesStr) : [];   //condition ? expression_if_true : expression_if_false;
 
             if(heart.style.color === 'rgb(249, 153, 78)'){   //if color is orange
                 heart.style.color = 'rgb(255, 255, 255)';  // it will change to white
