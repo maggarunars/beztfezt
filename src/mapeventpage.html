@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="src/style.css">
+    <link rel="stylesheet" href="../dist/output.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+        /* Set the size of div element that contains the map*/
+        html, body, #mapCanvas{
+            height: 100%;
+            margin: 0px;
+            padding: 0px;
+        }
+    </style>
+
+    <title>Map Event Page</title>
+    <script src="https://maps.googleapis.com/maps/api/js?callback=initMap&key=AIzaSyAYfivaSXLf5WPQilURiHCBNfndBSDhqLc" defer></script>
+    <script>
+        // Initialize and add the map
+        function initMap(){
+            //latitude and longtitude of the selected location
+            const myLatLng = {lat: 64.13714552908452, lng: -21.913247569308975};
+            //the map, centered at selected location
+            const map = new google.maps.Map(document.getElementById("mapCanvas"),{
+                zoom: 12,
+                center: myLatLng
+            });
+
+        //info window content
+        let contentString = '<div id="content">' + 
+            '<h1 class="font-lexend pb-2 text-2xl font-bold text-orange";">Vegan Festival</h1>'+
+            '<div id="bodyContent">'+
+                '<div style="float:left; width:20%;"><img src="/src/images/info-image.jpg" width="100" height="80"/></div>' +
+                '<div style="float:right; width:50%;margine-top: -19px;">'+
+                    '<p class = "font-lexend text-gray">Come to join the most tasty festival in town. Get ready for everything from vegan burgers to ginger sticks.'+
+                    
+                '</div>'+
+            '</div>'+
+        '</div>';
+
+        // Add info window
+        const infowindow = new google.maps.InfoWindow({
+            content: contentString
+        });
+
+        // Add info window
+    
+        const marker = new google.maps.Marker({
+          position: myLatLng,
+          map: map,
+          title: 'Klambratun'
+
+        }) 
+
+        //Marker click event: open info window
+        google.maps.event.addListener(marker,'click', function(){
+            infowindow.open(map, marker);
+        });
+
+        //open info window on load
+        infowindow.open(map, marker);
+
+        }
+
+        window.initMap = initMap;
+    </script>
+</head>
+<body>
+    <!-- header- logo or anything we have and need to be on top-->
+    <!-- API map, div element to embed map-->
+    <div id="mapCanvas"></div>
+    <!-- navbar-->
+    <!-- sticky navbar menu -->
+    <footer class="pt-16">
+        <nav class="bg-blue border-t-4 border-t-green fixed bottom-0 w-full p-4">
+            <div class="flex justify-around">
+                          <a class="flex items-center" href="/index.html"><img src="images/homeicon.svg" alt="home"class="text-3xl text-white" name="home-outline"></a>
+                          <a class="flex items-center" href="events.html"><img src="images/calendaricon.svg" alt="home"class="text-3xl text-white" name="home-outline"></a>
+                        <a class="flex items-center" href="mapeventpage.html"><img src="images/locationicon.svg" alt="home"class="text-3xl text-white" name="home-outline"></a>
+                          <a class="flex items-center" href="myevents.html"><img src="images/hearticon.svg" alt="home"class="text-3xl text-white" name="home-outline"></a>
+            </div>            
+        </nav>
+    </footer>
+</body>
+</html>
