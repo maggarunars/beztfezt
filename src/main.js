@@ -13,10 +13,6 @@ function colorChange(iconBtn) {
     }
     iconBtn.style.backgroundColor = "#F9994E";
 }
-document.addEventListener("DOMContentLoaded ", () => {
-    const result = events.filter((event) => event.acf.dagsetning === "5. apríl");
-    console.log(result);
-});
 // THIS CREATES THE EVENT LIST ON EVENTS.HTML
 document.addEventListener('DOMContentLoaded', function () {
     const eventContainer = document.querySelector("#eventContainer");
