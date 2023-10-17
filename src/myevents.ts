@@ -43,7 +43,11 @@ document.addEventListener('DOMContentLoaded', function () {
                 heart.style.color = 'rgb(255, 255, 255)';  // it will change to white
                 // Add your event to the favorites array here
                 favoritesArray.push(eventDiv.innerHTML);
+<<<<<<< HEAD
             } else {  // if color is not red
+=======
+            } else {  // if color is not orange
+>>>>>>> a56f6d836622ea7e1129d316806345429118b140
                 heart.style.color = 'rgb(249, 153, 78)';  // it will change to orange
                 // Find the index of your event in the favorites array
                 const index = favoritesArray.indexOf(eventDiv.innerHTML);
