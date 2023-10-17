@@ -11,51 +11,43 @@
     <header class="pt-12 flex justify-center align-middle mb-4 text-center">
         <h1 class="pb-2 text-2xl font-bold text-green">MY EVENTS</h1>
     </header>
-     <!-- Filter sidebar menu -->
-     <div class="w-full flex justify-end fixed">
+    <!-- Filter sidebar menu -->
+    <div class="z-10 w-full flex justify-end fixed">
         <div class="fixed flex justify-end flex-col" id="dropdownButton">
-            <div onclick="toggleDropdown()" class=" bg-blue px-5 py-5 rounded-tl-xl font-bold flex">
+            <div onclick="toggleDropdown()" class=" bg-blue px-5 py-5 rounded-tl-xl font-bold flex justify-center">
                 <img src="/src/images/filterIcon.svg"  alt="filterIcon">
             </div>
-            <div id="dropdown" class="rounded-bl-xl bg-blue p-5 hidden" id="dropdownButton">
-                <div class=""><img src="/src/images/accessIcon.svg"  alt="accessIcon"></div>
-                <p>Access</p>
-                <div class="pb-4"><img src="/src/images/foodIcon.svg"  alt="foodIcon"></div>
-                <div class="pb-4"><img src="/src/images/musicIcon.svg"  alt="musicIcon"></div>
-                <div class="pb-4"><img src="/src/images/artIcon.svg"  alt="artIcon"></div>
-                <div class="pb-4"><img src="/src/images/theatreIcon.svg"  alt="theatreIcon"></div>
-                <div class="pb-4"><img src="/src/images/familyIcon.svg"  alt="familyIcon"></div>
+            <div id="dropdown" class="rounded-bl-xl bg-blue hidden pb-5 justify-center flex-col">
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/accessIcon.svg" alt="accessIcon" width="34" height="34" class="">
+                    <p class="flex justify-center font-lexend text-white font-light" >access</p>
+                </div>
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/foodIcon.svg" alt="foodIcon" width="34" height="34">
+                    <p class="flex justify-center font-lexend text-white font-light">food</p>
+                </div>
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/musicIcon.svg" alt="musicIcon" width="34" height="34">
+                    <p class="flex justify-center font-lexend text-white font-light">music</p>
+                </div>
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/artIcon.svg" alt="artIcon" width="34" height="34">
+                    <p class="flex justify-center font-lexend text-white font-light">art</p>
+                </div>
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/theatreIcon.svg" alt="theatreIcon" width="34" height="34">
+                    <p class="flex justify-center font-lexend text-white font-light">theatre</p>
+                </div>
+                <div id="color" class="flex flex-col items-center py-2" onclick="colorChange(this)">
+                    <img src="/src/images/familyIcon.svg" alt="familyIcon" width="34" height="34">
+                    <p class="flex justify-center font-lexend text-white font-light">family</p>
+                </div>
             </div>
         </div>
     </div>
     <!-- EVENT CARDS BELOW -->
-    <!-- I am leaving the section part bc I'm not sure the page needs it as a
-    container for receiving the TS function -->
-    <section class="text-white">
-        <!-- <div class="mx-4 mb-4 bg-blue rounded-xl flex justify-between">
-            <div class="flex flex-col justify-evenly">
-                <div class="px-4">
-                    <h2 class="font-bold text-2xl">Festival name</h2>
-                    <h3>Location</h3>
-                </div>
-                <div class="flex justify-between px-4 gap-3">
-                    <div class="flex items-center">
-                        <ion-icon class="text-4xl" name="heart-outline"></ion-icon>
-                        <ion-icon class="text-4xl" name="share-outline"></ion-icon>
-                    </div>
-                    <div>
-                        <p class="flex justify-end">8. april</p>
-                        <p>15:00 - 21:00</p>
-                    </div>
-                </div>
-            </div>
-            <div>
-                <img class="rounded-xl" src="https://picsum.photos/150" alt="">
-            </div>
-        </div> -->
-
-<!-- This needs a list for the Event Cards that will be favorited and arranged by time value -->
-<ul class="favoriteList"></ul>
+    <section class="text-white" id="eventContainer">
+    
 
     </section>
      <!-- sticky navbar menu -->
@@ -72,6 +64,6 @@
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
     
-    <script src="main.js"></script>
+    <script src="myevents.js"></script>
 </body>
 </html>
