@@ -1,0 +1,63 @@
+/* here below is the animation*/
+
+#showcase img{ /* beztfezt logo */
+   
+    position: relative; 
+    animation: heading; 
+    animation-duration: 3s; /*the animation lasts 3 seconds */
+    animation-fill-mode: forwards; /*the logo and buttons will stay in their final state of the animation after it is completed */
+  }
+  
+  @keyframes heading{ /* the animation transitions between two keyframes */
+    0% {bottom: -300px;} /* at the start of the animation. the position of the element i'm animating it will be positioned 300 pixels above from of its initial position*/
+    100% {bottom: 0px;} /* --"--same here but at the end of the animation the element goes back to its original position*/
+  }
+
+  #showcase button{ /* white background behind logo*/
+    
+    position: relative;
+    animation: heading;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes heading{
+    0% {bottom: -300px;}
+    100% {bottom: 0px;}
+  }
+
+  #showcase h2{ /* dates */
+    position: relative;
+    animation: heading;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes heading{
+    0% {bottom: -300px;}
+    100% {bottom: 0px;}
+  }
+
+  #showcase2{ /* events button */
+    position: relative;
+    animation: heading;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes heading{
+    0% {bottom: -300px;}
+    100% {bottom: 0px;}
+  }
+
+  #showcase3{ /* about button*/
+    position: relative;
+    animation: heading;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes heading{
+    0% {bottom: -300px;}
+    100% {bottom: 0px;}
+  }
