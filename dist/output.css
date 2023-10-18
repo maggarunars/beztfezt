@@ -1913,6 +1913,14 @@ video {
   background-color: rgb(251 251 251 / var(--tw-bg-opacity));
 }
 
+.bg-\[url\(\'\/img\/hero-pattern\.svg\'\)\] {
+  background-image: url('/img/hero-pattern.svg');
+}
+
+.bg-\[url\(\'src\/images\/ReykjavikView\.jpg\'\)\] {
+  background-image: url('src/images/ReykjavikView.jpg');
+}
+
 .decoration-slice {
   -webkit-box-decoration-break: slice;
           box-decoration-break: slice;
@@ -2027,6 +2035,18 @@ video {
   padding: 4rem;
 }
 
+<<<<<<< HEAD
+.p-8 {
+  padding: 2rem;
+}
+
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+=======
+>>>>>>> 063640d4b53896c445cf167092f6fb10d3aeed79
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
@@ -2057,8 +2077,16 @@ video {
   padding-bottom: 2rem;
 }
 
+.pb-1 {
+  padding-bottom: 0.25rem;
+}
+
 .pb-2 {
   padding-bottom: 0.5rem;
+}
+
+.pb-4 {
+  padding-bottom: 1rem;
 }
 
 .pb-5 {
@@ -2151,6 +2179,11 @@ video {
 .text-base {
   font-size: 1rem;
   line-height: 1.5rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
 }
 
 .text-xl {
