@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // Add the event details to the div. THe ${} will get info from events array and fill into the html 
         eventDiv.innerHTML = `
         <div class="flex w-full justify-between">   
-            <div class="flex flex-col justify-evenly w-full">
+            <div class="flex flex-col justify-evenly w-full px-2">
                 <div class="px-4">
                     <a href="/src/eventPage.html">
                         <h2 class="font-bold text-white text-base">${event.yoast_head_json.title}</h2>
