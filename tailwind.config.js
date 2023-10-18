@@ -2,9 +2,6 @@
 module.exports = {
   content: ["./**/*.{html,js}", './index.html'], 
   theme: {
-    // fontFamily: {
-    //   'lexend': ['"Lexend"', 'sans-serif;']
-    // }
     extend: {
       colors: {
         green: '#328c73',
