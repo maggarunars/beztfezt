@@ -25,12 +25,12 @@ document.addEventListener('DOMContentLoaded', function () {
     events.forEach((event) => {
                 // Create a new div for each event and assigns it to the variable "eventDiv"
         const eventDiv = document.createElement('div');
-        eventDiv.className = "mx-4 mb-4 bg-blue rounded-xl flex justify-between h-40 w-{358px}"; // the name of the div
+        eventDiv.className = "mx-4 mb-4 bg-blue rounded-xl"; // the name of the div
         
         // Add the event details to the div. THe ${} will get info from events array and fill into the html 
         eventDiv.innerHTML = `
-        <div class="flex justify-between">   
-            <div class="flex flex-col justify-evenly mw-50">
+        <div class="flex w-full justify-between">   
+            <div class="flex flex-col justify-evenly w-full">
                 <div class="px-4">
                     <h2 class="font-bold text-white text-base">${event.yoast_head_json.title}</h2>
                     <h3>${event.acf.stadsetning}</h3>
@@ -38,15 +38,15 @@ document.addEventListener('DOMContentLoaded', function () {
                 <div class="flex justify-between px-4 gap-3">
                     <div class="flex items-center"> 
                         <ion-icon class="text-4xl heart-icon" name="heart-outline"></ion-icon>
-                        <ion-icon class="text-4xl" name="share-outline"></ion-icon>
+                        <img src="/src/images/shareicon.svg" alt="share icon">
                     </div>
                     <div>
                         <p class="flex justify-end">${event.acf.dagsetning}</p>
                     </div>
                 </div>
             </div>
-            <div>        
-                <img class="rounded-xl h-40 w-40" src="${event.yoast_head_json.og_image[0].url}" alt=""> 
+            <div class="h-40 w-40 object-fill">        
+                <img class="h-40 w-50 rounded-xl" src="${event.yoast_head_json.og_image[0].url}" alt=""> 
             </div>
         </div>
         `;
