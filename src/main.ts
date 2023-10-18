@@ -32,8 +32,10 @@ document.addEventListener('DOMContentLoaded', function () {
         <div class="flex justify-between">   
             <div class="flex flex-col justify-evenly mw-50">
                 <div class="px-4">
-                    <h2 class="font-bold text-white text-base">${event.yoast_head_json.title}</h2>
-                    <h3>${event.acf.stadsetning}</h3>
+                    <a href="/src/eventPage.html">
+                        <h2 class="font-bold text-white text-base">${event.yoast_head_json.title}</h2>
+                        <h3>${event.acf.stadsetning}</h3>
+                    </a> 
                 </div>
                 <div class="flex justify-between px-4 gap-3">
                     <div class="flex items-center"> 

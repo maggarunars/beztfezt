@@ -1,10 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./**/*.{html,js}"],
+  content: ["./**/*.{html,js}",  "./index.html"],
   theme: {
-    // fontFamily: {
-    //   'lexend': ['"Lexend"', 'sans-serif;']
-    // }
     extend: {
       colors: {
         green: '#328c73',
@@ -15,6 +12,9 @@ module.exports = {
       }, 
         fontFamily: {
         'lexend': ['"Lexend"', 'sans-serif;']
+        },
+        backgroundImage: {
+          'hero-pattern': "url('src/images/ReykjavikView.jpg')",
         }
     },
   },
