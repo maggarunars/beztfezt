@@ -21,13 +21,16 @@ function colorChange(iconBtn: HTMLDivElement){
 // when HTML document is fully loaded this code will run
 document.addEventListener('DOMContentLoaded', function () {
     const eventContainer = document.querySelector("#eventContainer") as HTMLElement; // finds the html element id=eventContainer and assigns it the variable "eventContainer"
-        // forEach loop
+        // forEach loop. Events is our array. .forEach() is a method that executes the provided function once for each array element.
+        // event is an individual event from our events array. 
+        //In the {} is a block of code that processes the event. 
     events.forEach((event) => {
                 // Create a new div for each event and assigns it to the variable "eventDiv"
         const eventDiv = document.createElement('div');
-        eventDiv.className = "mx-4 mb-4 bg-blue rounded-xl flex justify-between h-40 w-{358px}"; // the name of the div
+        eventDiv.className = "mx-4 mb-4 bg-blue rounded-xl flex"; // the name of the div
         
         // Add the event details to the div. THe ${} will get info from events array and fill into the html 
+        // `${}` this is used in template strings to embed expressions.  The HTML below is a template string. It is surrounded by bakticks: ``
         eventDiv.innerHTML = `
         <div class="flex justify-between">   
             <div class="flex flex-col justify-evenly mw-50">
