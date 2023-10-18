@@ -51,6 +51,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     // Remove your event from the favorites array
                     favoritesArray.splice(index, 1);
                     eventContainer.removeChild(eventDiv);
+                    const title = eventDiv.querySelector('h2')?.innerText;  // choosing the title h2 to remove the orange color when event card is unfavorited in My Events
+                    localStorage.setItem('heart-'+title as string, 'white');
                 }
             }
 

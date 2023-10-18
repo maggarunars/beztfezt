@@ -31,6 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
         });
         heart.addEventListener('click', function () {
+            var _a;
             const favoritesStr = localStorage.getItem('favorites');
             let favoritesArray = favoritesStr ? JSON.parse(favoritesStr) : []; //condition ? expression_if_true : expression_if_false;
             if (heart.style.color === 'rgb(249, 153, 78)') { //if color is orange
@@ -46,6 +47,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     // Remove your event from the favorites array
                     favoritesArray.splice(index, 1);
                     eventContainer.removeChild(eventDiv);
+                    const title = (_a = eventDiv.querySelector('h2')) === null || _a === void 0 ? void 0 : _a.innerText; // choosing the title h2 to remove the orange color when event card is unfavorited in My Events
+                    localStorage.setItem('heart-' + title, 'white');
                 }
             }
             // Update the favorites in local storage
