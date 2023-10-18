@@ -12,24 +12,28 @@
         rel="stylesheet">
     <title>BeztFezt</title>
 </head>
-
+<!-- landing page with logo, background photo, and "events" and "about" buttons -->
 <body class="bg-fixed h-screen" style="background-image: url(src/images/ReykjavikView.jpg);">
 
     <div class="flex justify-center flex-col items-center h-full gap-6">
-        <div>
-            <button class="bg-white opacity-80 p-16 rounded-full flex flex-col items-center ">
+        <!-- added an id for the animation, which is connected to style.css -->
+        <div id="showcase">
+             <!-- added an id for the animation, which is connected to style.css -->
+            <button id="ring" class="bg-white opacity-80 p-16 rounded-full flex flex-col items-center ">
                 <img src="src/images/beztfezt.svg" alt="BeztFeztLogo">
                 <h2 class="text-2xl">5 - 8 april 2024</h2>
             </button>
         </div>
         <div>
-            <a href="src/events.html"><button class="eventBtn">EVENTS</button></a> 
+             <!-- added an id for the animation, which is connected to style.css -->
+            <a id="showcase2" href="src/events.html"><button class="eventBtn">EVENTS</button></a> 
         </div>
-        <div>
+         <!-- added an id for the animation, which is connected to style.css -->
+        <div id="showcase3">
             <a href="src/about.html"><button class="aboutBtn">ABOUT</button></a> 
         </div>
     </div>
-
+<!-- navbar -->
     <footer class="pt-16">
         <nav class="navbarStyle">
             <div class="flex justify-around">
