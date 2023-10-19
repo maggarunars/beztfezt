@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <div class="flex w-full justify-between">   
             <div class="flex flex-col justify-evenly w-full">
                 <div class="px-4">
-                    <a href="/eventPage.html">
+                    <a href="eventPage.html">
                         <h2 class="font-bold text-white text-base">${event.yoast_head_json.title}</h2>
                         <h3>${event.acf.stadsetning}</h3>
                     </a> 
