@@ -728,30 +728,14 @@ video {
   inset: -0.25rem;
 }
 
-.end-1 {
-  inset-inline-end: 0.25rem;
-}
-
-<<<<<<< HEAD
-=======
-
 .bottom-0 {
   bottom: 0px;
 }
 
-.bottom-56 {
-  bottom: 14rem;
-
-.right-0 {
-  right: 0px;
+.end-1 {
+  inset-inline-end: 0.25rem;
 }
 
-.left-0 {
-  left: 0px;
-
-}
-
->>>>>>> 55258755cc7c684d13c1f463de9daad962558c2d
 .isolate {
   isolation: isolate;
 }
@@ -796,10 +780,6 @@ video {
   margin: 0.25rem;
 }
 
-.m-10 {
-  margin: 2.5rem;
-}
-
 .mx-4 {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -813,6 +793,10 @@ video {
 .my-8 {
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
+
+.mb-20 {
+  margin-bottom: 5rem;
 }
 
 .mb-24 {
@@ -829,18 +813,6 @@ video {
 
 .mt-2 {
   margin-top: 0.5rem;
-}
-
-.mb-8 {
-  margin-bottom: 2rem;
-}
-
-.mb-10 {
-  margin-bottom: 2.5rem;
-}
-
-.mb-20 {
-  margin-bottom: 5rem;
 }
 
 .box-border {
@@ -1790,6 +1762,10 @@ video {
   border-radius: 0.25rem;
 }
 
+.rounded-2xl {
+  border-radius: 1rem;
+}
+
 .rounded-full {
   border-radius: 9999px;
 }
@@ -1800,14 +1776,6 @@ video {
 
 .rounded-xl {
   border-radius: 0.75rem;
-}
-
-.rounded-3xl {
-  border-radius: 1.5rem;
-}
-
-.rounded-2xl {
-  border-radius: 1rem;
 }
 
 .rounded-b {
@@ -1957,10 +1925,6 @@ video {
   background-color: rgb(251 251 251 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'src\/images\/ReykjavikView\.jpg\'\)\] {
-  background-image: url('src/images/ReykjavikView.jpg');
-}
-
 .bg-\[url\(\'src\/images\/backgroundImage\.jpg\'\)\] {
   background-image: url('src/images/backgroundImage.jpg');
 }
@@ -2079,10 +2043,6 @@ video {
   padding: 4rem;
 }
 
-.p-8 {
-  padding: 2rem;
-}
-
 .p-4 {
   padding: 1rem;
 }
@@ -2140,22 +2100,6 @@ video {
 
 .pt-16 {
   padding-top: 4rem;
-}
-
-.pr-1 {
-  padding-right: 0.25rem;
-}
-
-.pl-1 {
-  padding-left: 0.25rem;
-}
-
-.pl-8 {
-  padding-left: 2rem;
-}
-
-.pr-8 {
-  padding-right: 2rem;
 }
 
 .pr-2 {
@@ -2328,29 +2272,12 @@ video {
   font-variant-numeric: var(--tw-ordinal) var(--tw-slashed-zero) var(--tw-numeric-figure) var(--tw-numeric-spacing) var(--tw-numeric-fraction);
 }
 
-.tracking-tight {
-  letter-spacing: -0.025em;
-}
-
-.tracking-wide {
-  letter-spacing: 0.025em;
-}
-
-.tracking-tighter {
-  letter-spacing: -0.05em;
-}
-
 .tracking-widest {
   letter-spacing: 0.1em;
 }
 
 .text-\[\#336699\]\/\[\.35\] {
   color: rgb(51 102 153 / .35);
-}
-
-.text-black {
-  --tw-text-opacity: 1;
-  color: rgb(24 24 24 / var(--tw-text-opacity));
 }
 
 .text-orange {
@@ -2361,6 +2288,11 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(251 251 251 / var(--tw-text-opacity));
+}
+
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(24 24 24 / var(--tw-text-opacity));
 }
 
 .underline {
