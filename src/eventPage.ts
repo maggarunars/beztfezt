@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     <h1 class="text-white font-bold text-3xl pb-1">${event.yoast_head_json.title}</h1>
                     <div class="flex justify-around">
                         <ion-icon class="text-4xl text-white px-2" name="heart-outline"></ion-icon>
-                        <ion-icon class="text-4xl text-white" name="share-outline"></ion-icon>
+                        <img src="images/shareicon.svg" alt="share icon">
                     </div>
                 </div>
                 <div class="flex flex-col justify-evenly">
