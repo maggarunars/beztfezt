@@ -4,7 +4,7 @@
    
     position: relative; 
     animation: heading; 
-    animation-duration: 3s; /*the animation lasts 3 seconds */
+    animation-duration: 2s; /*the animation lasts 3 seconds */
     animation-fill-mode: forwards; /*the logo and buttons will stay in their final state of the animation after it is completed */
   }
   
@@ -17,7 +17,7 @@
     
     position: relative;
     animation: heading;
-    animation-duration: 3s;
+    animation-duration: 2s;
     animation-fill-mode: forwards;
   }
   
@@ -29,7 +29,7 @@
   #showcase h2{ /* dates */
     position: relative;
     animation: heading;
-    animation-duration: 3s;
+    animation-duration: 2s;
     animation-fill-mode: forwards;
   }
   
@@ -41,7 +41,7 @@
   #showcase2{ /* events button */
     position: relative;
     animation: heading;
-    animation-duration: 3s;
+    animation-duration: 2s;
     animation-fill-mode: forwards;
   }
   
