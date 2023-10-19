@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./**/*.{html,js}",  "./index.html"],
+  content: ["./**/*.{html,js}", './index.html'], 
   theme: {
     extend: {
       colors: {
@@ -12,9 +12,6 @@ module.exports = {
       }, 
         fontFamily: {
         'lexend': ['"Lexend"', 'sans-serif;']
-        },
-        backgroundImage: {
-          'hero-pattern': "url('src/images/ReykjavikView.jpg')",
         }
     },
   },
