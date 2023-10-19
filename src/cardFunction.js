@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 <div class="flex justify-between px-4 gap-3">
                     <div class="flex items-center"> 
                         <ion-icon class="text-4xl heart-icon" name="heart-outline"></ion-icon>
-                        <img src="/src/images/shareicon.svg" alt="share icon">
+                        <img src="images/shareicon.svg" alt="share icon">
                     </div>
                     <div>
                         <p class="flex justify-end">${event.acf.dagsetning}</p>
