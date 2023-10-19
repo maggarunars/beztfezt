@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // Create a new div for each event and assigns it to the variable "eventDiv"
         const eventDiv = document.createElement('div');
         eventDiv.className = "mx-4 mb-4 bg-blue rounded-xl flex"; // the name of the div
+        // test
         // Add the event details to the div. THe ${} will get info from events array and fill into the html 
         // `${}` this is used in template strings to embed expressions.  The HTML below is a template string. It is surrounded by bakticks: ``
         eventDiv.innerHTML = `
