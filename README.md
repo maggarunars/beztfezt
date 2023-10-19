@@ -7,11 +7,14 @@ Sharing events with family and friends is also an option so you can plan your fe
 By using BeztFezt, you can focus on what truly matters: enjoying the music, art, and culture of the festival without the stress of planning.
 Enjoy!
 
-Tech stach used making this project:
+Tech stack used making this project:
+Figma
 Html
-Css
-Javascript
-Typescript
+CSS
+Tailwind
+Javascript/Typescript
+Google API for map
+JSON Array of Objects
 
 The BeztFezt team consists of:
 Margrét Rúnarsdóttir

@@ -1,28 +1,4 @@
 
-// This is the dropdown and toggle function for the Filter Menu Bar 
-function toggleDropdown(){
-     // Select the dropdown element by its ID
-    let dropdown: Element | null = document.querySelector("#dropdownButton #dropdown") as Element
-    // Toggle the "hidden" class to show/hide the dropdown
-    dropdown.classList.toggle("hidden")
-}
-
-// Select all div elements within the dropdown
-const icons = document.querySelectorAll<HTMLDivElement>("#dropdown div")
-// Function to change the background color of the clicked icon button
-function colorChange(iconBtn: HTMLDivElement){
-    console.log(iconBtn)
-        // Loop through all icon buttons and set their background color to a default value
-        for (let i = 0; i < icons.length; i++){
-            icons[i].style.backgroundColor = "#264653"
-        }
-        // Set the background color of the clicked icon button to a different color
-        iconBtn.style.backgroundColor = "#F9994E";
-}
-
-
-
-
 // THIS CREATES THE EVENT LIST ON EVENTS.HTML
 // when HTML document is fully loaded this code will run
 document.addEventListener('DOMContentLoaded', function () {
