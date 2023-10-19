@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 </div>
                 <div class="flex justify-between px-4 gap-3">
                     <div class="flex items-center"> 
-                        <ion-icon class="text-4xl heart-icon" name="heart-outline"></ion-icon>
+                        <ion-icon class="text-4xl heart-icon" name="heart-outline" role="img"></ion-icon>
                         <img src="images/shareicon.svg" alt="share icon">
                     </div>
                     <div>
