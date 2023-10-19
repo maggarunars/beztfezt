@@ -8,13 +8,7 @@ By using BeztFezt, you can focus on what truly matters: enjoying the music, art,
 Enjoy!
 
 Tech stack used making this project:
-Figma
-Html
-CSS
-Tailwind
-Javascript/Typescript
-Google API for map
-JSON Array of Objects
+Html - CSS - Tailwind - Javascript - Typescript - Google API for map - JSON Array of Objects
 
 The BeztFezt team consists of:
 Margrét Rúnarsdóttir
