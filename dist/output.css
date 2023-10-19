@@ -732,6 +732,14 @@ video {
   inset-inline-end: 0.25rem;
 }
 
+.bottom-0 {
+  bottom: 0px;
+}
+
+.bottom-56 {
+  bottom: 14rem;
+}
+
 .isolate {
   isolation: isolate;
 }
@@ -776,6 +784,10 @@ video {
   margin: 0.25rem;
 }
 
+.m-10 {
+  margin: 2.5rem;
+}
+
 .mx-4 {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -805,6 +817,18 @@ video {
 
 .mt-2 {
   margin-top: 0.5rem;
+}
+
+.mb-8 {
+  margin-bottom: 2rem;
+}
+
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+
+.mb-20 {
+  margin-bottom: 5rem;
 }
 
 .box-border {
@@ -1766,6 +1790,14 @@ video {
   border-radius: 0.75rem;
 }
 
+.rounded-3xl {
+  border-radius: 1.5rem;
+}
+
+.rounded-2xl {
+  border-radius: 1rem;
+}
+
 .rounded-b {
   border-bottom-right-radius: 0.25rem;
   border-bottom-left-radius: 0.25rem;
@@ -1913,12 +1945,12 @@ video {
   background-color: rgb(251 251 251 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\/img\/hero-pattern\.svg\'\)\] {
-  background-image: url('/img/hero-pattern.svg');
-}
-
 .bg-\[url\(\'src\/images\/ReykjavikView\.jpg\'\)\] {
   background-image: url('src/images/ReykjavikView.jpg');
+}
+
+.bg-\[url\(\'src\/images\/backgroundImage\.jpg\'\)\] {
+  background-image: url('src/images/backgroundImage.jpg');
 }
 
 .decoration-slice {
@@ -2035,9 +2067,12 @@ video {
   padding: 4rem;
 }
 
-<<<<<<< HEAD
 .p-8 {
   padding: 2rem;
+}
+
+.p-4 {
+  padding: 1rem;
 }
 
 .px-2 {
@@ -2045,8 +2080,6 @@ video {
   padding-right: 0.5rem;
 }
 
-=======
->>>>>>> 063640d4b53896c445cf167092f6fb10d3aeed79
 .px-4 {
   padding-left: 1rem;
   padding-right: 1rem;
@@ -2087,10 +2120,6 @@ video {
 
 .pb-4 {
   padding-bottom: 1rem;
-}
-
-.pb-5 {
-  padding-bottom: 1.25rem;
 }
 
 .pl-4 {
