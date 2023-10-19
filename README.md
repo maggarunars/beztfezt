@@ -11,8 +11,4 @@ Tech stack used making this project:
 Html - CSS - Tailwind - Javascript - Typescript - Google API for map - JSON Array of Objects
 
 The BeztFezt team consists of:
-Margrét Rúnarsdóttir
-Katarína Bozáňová
-Óli Hafsteinn Hauth
-Sólveig Alda Halldórsdóttir
-Peter Takács
+Margrét Rúnarsdóttir, Katarína Bozáňová, Óli Hafsteinn Hauth, Sólveig Alda Halldórsdóttir and Peter Takács.
