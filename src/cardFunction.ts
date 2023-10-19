@@ -12,14 +12,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
         eventDiv.className = "mx-4 mb-4 bg-blue rounded-xl flex"; // the name of the div
 
-        // test
+
         // Add the event details to the div. THe ${} will get info from events array and fill into the html 
         // `${}` this is used in template strings to embed expressions.  The HTML below is a template string. It is surrounded by bakticks: ``
         eventDiv.innerHTML = `
         <div class="flex w-full justify-between">   
             <div class="flex flex-col justify-evenly w-full">
                 <div class="px-4">
-                    <a href="src/eventPage.html">
+                    <a href="eventPage.html">
                         <h2 class="font-bold text-white text-base">${event.yoast_head_json.title}</h2>
                         <h3>${event.acf.stadsetning}</h3>
                     </a> 
