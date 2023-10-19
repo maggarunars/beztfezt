@@ -11,7 +11,7 @@ function initMap() {
     let contentString = '<div id="content" class= w-56>' +
         '<h1 class="font-lexend pb-2 text-2xl font-bold text-orange";">GRÍMUR opening</h1>' +
         '<div id="bodyContent">' +
-        '<div style="float:left; width:40%;"><img src="/src/images/grimur.jpg" width="100" height="80"/></div>' +
+        '<div style="float:left; width:40%;"><img src="images/grimur.jpg" width="100" height="80"/></div>' +
         '<div style="float:right; width:50%;margine-top: -19px;">' +
         '<p class = "font-lexend text-gray">A large exhibition titled MASKS at the Nordic House. Over 200 photograps and slides bubbling with queer rhetoric and aesthetics.' +
         '</div>' +
