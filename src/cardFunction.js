@@ -14,25 +14,25 @@ document.addEventListener('DOMContentLoaded', function () {
         // `${}` this is used in template strings to embed expressions.  The HTML below is a template string. It is surrounded by bakticks: ``
         eventDiv.innerHTML = `
         <div class="flex w-full justify-between">   
-            <div class="flex flex-col justify-evenly w-full">
+            <div class="flex flex-col justify-evenly w-2/3">
                 <div class="px-4">
                     <a href="eventPage.html">
                         <h2 class="font-bold text-white text-base">${event.yoast_head_json.title}</h2>
-                        <h3>${event.acf.stadsetning}</h3>
+                        <h3 class="lowercase">${event.acf.stadsetning}</h3>
                     </a> 
                 </div>
                 <div class="flex justify-between px-4 gap-3">
                     <div class="flex items-center"> 
-                        <ion-icon class="text-4xl heart-icon" name="heart-outline"></ion-icon>
+                        <ion-icon class="text-4xl heart-icon mr-2" name="heart-outline" role="img"></ion-icon>
                         <img src="images/shareicon.svg" alt="share icon">
                     </div>
-                    <div>
-                        <p class="flex justify-end">${event.acf.dagsetning}</p>
+                    <div class="flex items-center">
+                        <p>${event.acf.dagsetning}</p>
                     </div>
                 </div>
             </div>
-            <div class="h-40 w-40 object-fill">        
-                <img class="h-40 w-50 rounded-xl" src="${event.yoast_head_json.og_image[0].url}" alt=""> 
+            <div class="h-40 w-1/3 object-fill">        
+                <img class="h-40 w-full rounded-xl object-cover" src="${event.yoast_head_json.og_image[0].url}" alt=""> 
             </div>
         </div>
         `;
