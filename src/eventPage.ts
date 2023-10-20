@@ -19,8 +19,8 @@ document.addEventListener('DOMContentLoaded', function () {
                 </div>
                 <div class="flex flex-col justify-evenly">
                     <div class="pb-4">
-                        <h2 class="text-white text-lg font-bold">${event.acf.stadsetning}</h2>
-                        <h2 class="text-white text-lg font-bold">${event.acf.dagsetning} ${event.acf.timasetning} : ${event.acf.timasetning_til}</h2>
+                        <h2 class="text-white text-lg font-medium">${event.acf.stadsetning}</h2>
+                        <h2 class="text-white text-lg font-medium">${event.acf.dagsetning} ${event.acf.timasetning} : ${event.acf.timasetning_til}</h2>
                     </div>
                     <div class="text-center"> 
                         <p class="text-white text-left text-base">
