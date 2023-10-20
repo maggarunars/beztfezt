@@ -26,8 +26,8 @@ document.addEventListener('DOMContentLoaded', function () {
                         <ion-icon class="text-4xl heart-icon mr-2" name="heart-outline" role="img"></ion-icon>
                         <img src="images/shareicon.svg" alt="share icon">
                     </div>
-                    <div class="mt-4">
-                        <p class="flex justify-end">${event.acf.dagsetning}</p>
+                    <div class="flex items-center">
+                        <p>${event.acf.dagsetning}</p>
                     </div>
                 </div>
             </div>
